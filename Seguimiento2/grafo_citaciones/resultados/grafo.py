@@ -1,36 +1,34 @@
-# grafo_graphviz.py
 import json
 import networkx as nx
-from networkx.drawing.nx_pydot import write_dot
 import matplotlib.pyplot as plt
 
-# Cargar JSON
-json_file = "grafo_citaciones.json"
-with open(json_file, "r", encoding="utf-8") as f:
+# Cargar datos
+with open("grafo_citaciones.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Crear grafo dirigido
 G = nx.DiGraph()
 
-# Agregar nodos
-for nodo_id in data.get("nodos", {}):
-    G.add_node(nodo_id)
+# Suponemos que "nodos" tiene la información de los artículos
+for nodo, info in data["nodos"].items():
+    G.add_node(nodo, titulo=info.get("titulo", "Sin título"))
 
-# Agregar aristas
-for origen, destinos in data.get("aristas", {}).items():
-    for destino, peso in destinos.items():
-        if peso == {}:
-            peso = 1
-        G.add_edge(origen, destino, weight=peso)
+# Añadir aristas
+for nodo, adyacentes in data["aristas"].items():
+    for vecino in adyacentes.keys():
+        G.add_edge(nodo, vecino)
 
-# Guardar grafo en formato DOT (Graphviz)
-write_dot(G, "grafo.dot")
-print("Archivo DOT generado: grafo.dot")
+# Dibujar grafo
+plt.figure(figsize=(16, 16))
+pos = nx.spring_layout(G, seed=42)
 
-# Opcional: dibujar usando Graphviz layout de matplotlib
-pos = nx.nx_pydot.graphviz_layout(G, prog="dot")  # Puedes cambiar prog a "neato" o "fdp"
-plt.figure(figsize=(12, 12))
-nx.draw(G, pos, node_size=30, node_color="skyblue", arrowsize=10, edge_color="gray", alpha=0.5)
-plt.title("Grafo de citaciones (Graphviz layout)")
+nx.draw_networkx_nodes(G, pos, node_size=50, node_color="skyblue")
+nx.draw_networkx_edges(G, pos, arrowstyle="->", arrowsize=10, edge_color="gray")
+
+# Dibujar etiquetas con títulos (puede recortar si son muy largos)
+labels = {n: G.nodes[n]['titulo'][:30] + "..." if len(G.nodes[n]['titulo']) > 30 else G.nodes[n]['titulo'] for n in G.nodes()}
+nx.draw_networkx_labels(G, pos, labels, font_size=8)
+
 plt.axis("off")
+plt.tight_layout()
 plt.show()
