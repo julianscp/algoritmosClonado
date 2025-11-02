@@ -23,17 +23,28 @@ def normalize_doi(doi: str) -> str:
     if not doi:
         return ""
     d = doi.strip().lower()
-    if d.startswith("https://doi.org/"): d = d[16:]
-    if d.startswith("http://doi.org/"):  d = d[15:]
+    if d.startswith("https://doi.org/"): 
+        d = d[16:]
+    elif d.startswith("http://doi.org/"):  
+        d = d[15:]
     return d
 
 # patrones robustos para key = {valor} o "valor"
 RE_DOI = re.compile(r'(?im)^\s*doi\s*=\s*(?:\{([^}]*)\}|"([^"]*)")', re.M)
+RE_ABSTRACT = re.compile(r'(?im)^\s*abstract\s*=\s*(?:\{([^}]*)\}|"([^"]*)")', re.M)
 
 def get_doi(entry: str) -> str:
     m = RE_DOI.search(entry)
     val = (m.group(1) or m.group(2)) if m else ""
     return normalize_doi(val)
+
+def has_abstract(entry: str) -> bool:
+    """Devuelve True si el entry tiene un campo abstract no vacío."""
+    m = RE_ABSTRACT.search(entry)
+    if not m:
+        return False
+    val = (m.group(1) or m.group(2) or "").strip()
+    return len(val) > 0
 
 def split_bib_entries(text: str) -> list[str]:
     """
@@ -73,9 +84,21 @@ def main():
         print(f"[ERROR] No existe carpeta de entrada: {IN_DIR}", file=sys.stderr)
         sys.exit(1)
 
-    bib_files = sorted(IN_DIR.glob("*.bib"))
+    # ✅ Solo procesar archivos que:
+    # - Empiezan con acm_, sage_ o elsevier_
+    # - Terminan con _con_abstracts.bib
+    bib_files = sorted([
+        f for f in IN_DIR.glob("*.bib")
+        if (
+            (f.name.startswith("acm_") or
+             f.name.startswith("sage_") or
+             f.name.startswith("elsevier_"))
+            and f.name.endswith("_con_abstracts.bib")
+        )
+    ])
+
     if not bib_files:
-        print(f"[WARN] No se encontraron .bib en {IN_DIR}", file=sys.stderr)
+        print(f"[WARN] No se encontraron archivos válidos (acm_, sage_, elsevier_ con _con_abstracts.bib)", file=sys.stderr)
         OPTIMOS.write_text("", encoding="utf-8")
         DESCARTADOS.write_text("", encoding="utf-8")
         return
@@ -91,24 +114,35 @@ def main():
 
         for e in entries:
             doi = get_doi(e)
+            abstract_ok = has_abstract(e)
 
-            # Solo DOI: si no hay DOI, descartar
+            # ---- Filtro 1: sin DOI → descartar ----
             if not doi:
                 descartados.append(e)
                 continue
 
             key = f"doi::{doi}"
+
+            # ---- Filtro 2: duplicado por DOI ----
             if key in seen_doi:
                 descartados.append(e)
-            else:
-                seen_doi.add(key)
-                optimos.append(e)
+                continue
 
+            # ---- Filtro 3: sin abstract ----
+            if not abstract_ok:
+                descartados.append(e)
+                continue
+
+            # ---- Pasa todos los filtros ----
+            seen_doi.add(key)
+            optimos.append(e)
+
+    # Guardar resultados
     OPTIMOS.write_text("".join(optimos), encoding="utf-8")
     DESCARTADOS.write_text("".join(descartados), encoding="utf-8")
 
-    print(f"[OK] articulosOptimos.bib: {len(optimos)} entradas (únicas por DOI)")
-    print(f"[OK] articulosDescartados.bib: {len(descartados)} entradas (duplicados y sin DOI)")
+    print(f"[OK] articulosOptimos.bib: {len(optimos)} entradas (únicas, con DOI y abstract)")
+    print(f"[OK] articulosDescartados.bib: {len(descartados)} entradas (duplicados, sin DOI o sin abstract)")
     print(f"[DONE] Archivos en: {OUT_DIR}")
 
 if __name__ == "__main__":
