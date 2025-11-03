@@ -16,7 +16,7 @@
       "doi": "10.1145/3760386"
     },
     "Roberts2025ComputationalThinki": {
-      "titulo": "Computational Thinking and Epistemic Heterogeneity: A Critical Review of Music+Coding",
+      "titulo": "Computational Thinking and Epistemic Heterogeneity: A Critical Review of Music+Coding",
       "autores": [
         "Roberts, Cameron L.",
         "Horn, Michael S."
@@ -171,7 +171,7 @@
       "doi": "10.1145/3750045"
     },
     "Hella2025RegularRepresentati": {
-      "titulo": "Regular Representations of Uniform TC\n<sup>0</sup>",
+      "titulo": "Regular Representations of Uniform TC 0",
       "autores": [
         "Hella, Lauri",
         "Kontinen, Juha",
@@ -437,7 +437,7 @@
       "doi": "10.1145/3719008"
     },
     "Ciardo20251scp": {
-      "titulo": "1\n<scp>-in-</scp>\n3\n<scp>vs</scp>\n. N\n<scp>ot</scp>\n-A\n<scp>ll</scp>\n-E\n<scp>qual</scp>\n: Dichotomy of a Broken Promise",
+      "titulo": "1 -in- 3 vs . N ot -A ll -E qual : Dichotomy of a Broken Promise",
       "autores": [
         "Ciardo, Lorenzo",
         "Kozik, Marcin",
@@ -471,7 +471,7 @@
       "doi": "10.1145/3717838"
     },
     "Oliveira2025SIGACTNewsComplexi": {
-      "titulo": "SIGACT News Complexity Theory Column 124\n<b>Meta-Mathematics of Computational Complexity Theory</b>",
+      "titulo": "SIGACT News Complexity Theory Column 124 Meta-Mathematics of Computational Complexity Theory",
       "autores": [
         "Oliveira, Igor C."
       ],
@@ -534,7 +534,7 @@
       "doi": "10.1145/3697352"
     },
     "Aziz2025ComputationalComple": {
-      "titulo": "Computational Complexity of\n<i>k</i>\n-stable Matchings",
+      "titulo": "Computational Complexity of k -stable Matchings",
       "autores": [
         "Aziz, Haris",
         "Csáji, Gergely",
@@ -1004,7 +1004,7 @@
       "doi": "10.1145/3666006"
     },
     "Alistarh2024DistributedComputin": {
-      "titulo": "Distributed Computing Column 87\n<i>Distributed and Algorithmic Thinking across Domains</i>",
+      "titulo": "Distributed Computing Column 87 Distributed and Algorithmic Thinking across Domains",
       "autores": [
         "Alistarh, Dan"
       ],
@@ -1439,7 +1439,7 @@
       "doi": "10.1145/3618396"
     },
     "Zhou2023ComputationalDesign": {
-      "titulo": "Computational Design of LEGO\n<sup>®</sup>\nSketch Art",
+      "titulo": "Computational Design of LEGO ® Sketch Art",
       "autores": [
         "Zhou, Mingjun",
         "Ge, Jiahao",
@@ -1567,7 +1567,7 @@
       "doi": "10.1145/3597301"
     },
     "Huang2023BreathingNewLifei": {
-      "titulo": "Breathing New Life into an Old Tree: Resolving Logging Dilemma of\n<i>B</i>\n<sup>+</sup>\n-tree on Modern Computational Storage Drives",
+      "titulo": "Breathing New Life into an Old Tree: Resolving Logging Dilemma of B + -tree on Modern Computational Storage Drives",
       "autores": [
         "Huang, Kecheng",
         "Shen, Zhaoyan",
@@ -1880,7 +1880,7 @@
       "doi": "10.1145/3594715"
     },
     "Chang2023ADASu": {
-      "titulo": "ADAS:\n<u>A</u>\nHigh Computational Utilization\n<u>D</u>\nynamic Reconfigurable Hardware\n<u>A</u>\nccelerator for\n<u>S</u>\nuper Resolution",
+      "titulo": "ADAS: A High Computational Utilization D ynamic Reconfigurable Hardware A ccelerator for S uper Resolution",
       "autores": [
         "Chang, Liang",
         "Zhao, Xin",
@@ -2234,7 +2234,7 @@
       "doi": "10.1145/3555078"
     },
     "Ammari2023AComputationalGeom": {
-      "titulo": "A Computational Geometry-based Approach for Planar\n<i>k</i>\n-Coverage in Wireless Sensor Networks",
+      "titulo": "A Computational Geometry-based Approach for Planar k -Coverage in Wireless Sensor Networks",
       "autores": [
         "Ammari, Habib M."
       ],
@@ -2366,7 +2366,7 @@
       "doi": "10.1145/3568025"
     },
     "Vukmirovi2023SATInspiredElimina": {
-      "titulo": "SAT-Inspired Eliminations for Superposition",
+      "titulo": "SAT-Inspired Eliminations for Superposition",
       "autores": [
         "Vukmirović, Petar",
         "Blanchette, Jasmin",
@@ -2514,7 +2514,7 @@
       "doi": "10.1145/3555546"
     },
     "Kurte2022The15": {
-      "titulo": "The 15\n<sup>th</sup>\nACM SIGSPATIAL International Workshop on Computational Transportation Science (IWCTS 2022), Seattle, WA, USA - November 1, 2022",
+      "titulo": "The 15 th ACM SIGSPATIAL International Workshop on Computational Transportation Science (IWCTS 2022), Seattle, WA, USA - November 1, 2022",
       "autores": [
         "Kurte, Kuldeep",
         "Berres, Andy",
@@ -2682,7 +2682,7 @@
       "doi": "10.1145/3493342"
     },
     "Corbara2022scpMedLatinEpisc": {
-      "titulo": "<scp>MedLatinEpi</scp>\nand\n<scp>MedLatinLit</scp>\n: Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts",
+      "titulo": "MedLatinEpi and MedLatinLit : Two Datasets for the Computational Authorship Analysis of Medieval Latin Texts",
       "autores": [
         "Corbara, Silvia",
         "Moreo, Alejandro",
@@ -4248,7 +4248,7 @@
       "doi": "10.1145/3434290"
     },
     "Pellegrini2020ReplicationofCompu": {
-      "titulo": "Replication of Computational Results Report for “\n<i>Green Simulation with Database Monte Carlo</i>\n”",
+      "titulo": "Replication of Computational Results Report for “ Green Simulation with Database Monte Carlo ”",
       "autores": [
         "Pellegrini, Alessandro"
       ],
@@ -6576,7 +6576,7 @@
       "doi": "10.1016/j.cam.2025.117173"
     },
     "Alt2026Packingddimensiona": {
-      "titulo": "Packing d-dimensional balls into a d + 1-dimensional container",
+      "titulo": "Packing d-dimensional balls into a d + 1-dimensional container",
       "autores": [
         "Alt, Helmut",
         "Cabello, Sergio",
@@ -6750,7 +6750,7 @@
       "doi": "10.1016/j.cam.2025.117089"
     },
     "zarslan2026Thegeneralizationo": {
-      "titulo": "The generalization of the\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si441.svg\" display=\"inline\" id=\"d1e2258\">\n<mml:mi>α</mml:mi>\n</mml:math>\n-Meyer–König–Zeller operators by generating functions",
+      "titulo": "The generalization of the α -Meyer–König–Zeller operators by generating functions",
       "autores": [
         "Özarslan, Mehmet Ali",
         "Kara, Mustafa"
@@ -6915,7 +6915,7 @@
       "doi": "10.1016/j.cam.2025.117180"
     },
     "Zhang2026Observerbasedrobus": {
-      "titulo": "Observer-based robust\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" display=\"inline\" id=\"d1e289\">\n<mml:msub>\n<mml:mrow>\n<mml:mi>H</mml:mi>\n</mml:mrow>\n<mml:mrow>\n<mml:mi>∞</mml:mi>\n</mml:mrow>\n</mml:msub>\n</mml:math>\ncontrol for two-dimensional continuous-discrete fractional-order Roesser systems: The\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si9.svg\" display=\"inline\" id=\"d1e299\">\n<mml:mrow>\n<mml:mn>0</mml:mn>\n<mml:mo linebreak=\"goodbreak\" linebreakstyle=\"after\">&lt;</mml:mo>\n<mml:mi>ɛ</mml:mi>\n<mml:mo linebreak=\"goodbreak\" linebreakstyle=\"after\">≤</mml:mo>\n<mml:mn>1</mml:mn>\n</mml:mrow>\n</mml:math>\ncase",
+      "titulo": "Observer-based robust H ∞ control for two-dimensional continuous-discrete fractional-order Roesser systems: The 0 &lt; ɛ ≤ 1 case",
       "autores": [
         "Zhang, Jia-Rui",
         "Lu, Jun-Guo",
@@ -7305,7 +7305,7 @@
       "doi": "10.1016/j.cam.2025.117101"
     },
     "Luo2026Localprojectionsta": {
-      "titulo": "Local projection stabilization methods for <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" display=\"inline\" id=\"d1e1607\"><mml:mi mathvariant=\"bold-italic\">H</mml:mi></mml:math>(curl) and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" display=\"inline\" id=\"d1e1612\"><mml:mi mathvariant=\"bold-italic\">H</mml:mi></mml:math>(div) advection problems",
+      "titulo": "Local projection stabilization methods for H(curl) and H(div) advection problems",
       "autores": [
         "Luo, Yangfan",
         "Wang, Jindong",
@@ -7459,7 +7459,7 @@
       "doi": "10.1016/j.cam.2025.117084"
     },
     "Das2026Codesequippedwith": {
-      "titulo": "Codes equipped with non-cyclic burst-<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" display=\"inline\" id=\"d1e337\"><mml:mi>b</mml:mi></mml:math> distance, bounds and periodical burst errors",
+      "titulo": "Codes equipped with non-cyclic burst-b distance, bounds and periodical burst errors",
       "autores": [
         "Das, Pankaj Kumar",
         "Agarwal, Achal"
@@ -7692,7 +7692,7 @@
       "doi": "10.1016/j.cam.2025.117086"
     },
     "Ji2026Scenariotreereduct": {
-      "titulo": "Scenario tree reduction algorithms combining quantitative stability with <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" display=\"inline\" id=\"d1e2375\"><mml:mi>k</mml:mi></mml:math>-medoids clustering for large-scale risk-averse multi-stage stochastics programming problems",
+      "titulo": "Scenario tree reduction algorithms combining quantitative stability with k-medoids clustering for large-scale risk-averse multi-stage stochastics programming problems",
       "autores": [
         "Ji, Bingbing",
         "Chen, Zhiping",
@@ -7703,7 +7703,7 @@
       "doi": "10.1016/j.cam.2025.117107"
     },
     "Djuki2026Interpolationofmm": {
-      "titulo": "Interpolation of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si11.svg\" display=\"inline\" id=\"d1e1616\"><mml:mi>α</mml:mi></mml:math>-harmonic functions on a circle",
+      "titulo": "Interpolation of α-harmonic functions on a circle",
       "autores": [
         "Lj. Djukić, D.",
         "Mutavdžić, N.M.",
@@ -7788,7 +7788,7 @@
       "doi": "10.1016/j.csda.2025.108292"
     },
     "Hu2026Energydissipationa": {
-      "titulo": "Energy dissipation and maximum-bound principle of the variable-step L2-\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si429.svg\" display=\"inline\" id=\"d1e754\">\n<mml:msub>\n<mml:mrow>\n<mml:mn>1</mml:mn>\n</mml:mrow>\n<mml:mrow>\n<mml:mi>σ</mml:mi>\n</mml:mrow>\n</mml:msub>\n</mml:math>\nscheme for the time-fractional Allen–Cahn equation with general nonlinear potential",
+      "titulo": "Energy dissipation and maximum-bound principle of the variable-step L2- 1 σ scheme for the time-fractional Allen–Cahn equation with general nonlinear potential",
       "autores": [
         "Hu, Dongdong",
         "Chen, Minghua",
@@ -8081,7 +8081,7 @@
       "doi": "10.1016/j.cam.2025.117016"
     },
     "Hu2026Feedbackcontroller": {
-      "titulo": "Feedback controller design in the frequency domain for high linear\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" display=\"inline\" id=\"d1e37\">\n<mml:mrow>\n<mml:mi>n</mml:mi>\n<mml:mo>−</mml:mo>\n</mml:mrow>\n</mml:math>\norder systems",
+      "titulo": "Feedback controller design in the frequency domain for high linear n − order systems",
       "autores": [
         "Hu, Guang-Da"
       ],
@@ -8407,7 +8407,7 @@
       "doi": "10.1016/j.cam.2025.116991"
     },
     "Apai2026QuantumHermiteHada": {
-      "titulo": "Quantum Hermite–Hadamard type inequalities for co-ordinated\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" display=\"inline\" id=\"d1e121\">\n<mml:mrow>\n<mml:mo>(</mml:mo>\n<mml:mi>F</mml:mi>\n<mml:mo>,</mml:mo>\n<mml:mi>G</mml:mi>\n<mml:mo>)</mml:mo>\n</mml:mrow>\n</mml:math>\n-convex functions",
+      "titulo": "Quantum Hermite–Hadamard type inequalities for co-ordinated ( F , G ) -convex functions",
       "autores": [
         "Ban A-pai, Fongchan",
         "Budak, Hüseyin"
@@ -8677,7 +8677,7 @@
       "doi": "10.1016/j.cam.2025.116865"
     },
     "Hao2026mmlmathxmlnsmml": {
-      "titulo": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si345.svg\" display=\"inline\" id=\"d1e122\"><mml:msup><mml:mrow><mml:mi>G</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:math> Hermite interpolation by planar quintic-like algebraic–trigonometric Pythagorean-hodograph curves",
+      "titulo": "G1 Hermite interpolation by planar quintic-like algebraic–trigonometric Pythagorean-hodograph curves",
       "autores": [
         "Hao, Yong-Xia",
         "Wu, Di"
@@ -8848,7 +8848,7 @@
       "doi": "10.1016/j.cam.2025.116994"
     },
     "DellAccio2026mmlmathxmlnsmml": {
-      "titulo": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" display=\"inline\" id=\"d1e2908\">\n<mml:msup>\n<mml:mrow>\n<mml:mi>C</mml:mi>\n</mml:mrow>\n<mml:mrow>\n<mml:mi>∞</mml:mi>\n</mml:mrow>\n</mml:msup>\n</mml:math>\nrational approximation and quasi-histopolation of functions with jumps through multinode Shepard functions",
+      "titulo": "C ∞ rational approximation and quasi-histopolation of functions with jumps through multinode Shepard functions",
       "autores": [
         "Dell’Accio, Francesco",
         "Larosa, Francesco",
@@ -9106,7 +9106,7 @@
       "doi": "10.1016/j.tsc.2025.101969"
     },
     "Lee2026Fastautoregressive": {
-      "titulo": "Fast autoregressive model for multivariate dependent outcomes with application to lipidomics analysis for Alzheimer’s disease and APOE-<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si18.svg\"><mml:mrow><mml:mi>ε</mml:mi></mml:mrow></mml:math>4",
+      "titulo": "Fast autoregressive model for multivariate dependent outcomes with application to lipidomics analysis for Alzheimer’s disease and APOE-ε4",
       "autores": [
         "Lee, Hwiyoung",
         "Ye, Zhenyao",
@@ -9375,7 +9375,7 @@
       "doi": "10.1016/j.comgeo.2025.102218"
     },
     "Shukla2026Generalizedcopolyn": {
-      "titulo": "Generalized co-polynomials of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" display=\"inline\" id=\"d1e1454\"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mi>I</mml:mi><mml:mi>I</mml:mi></mml:mrow></mml:msub></mml:math> type and associated quadrature rules",
+      "titulo": "Generalized co-polynomials of RII type and associated quadrature rules",
       "autores": [
         "Shukla, Vinay",
         "Swaminathan, A."
@@ -9397,7 +9397,7 @@
       "doi": "10.1016/j.csda.2025.108290"
     },
     "Halder2026Solvabilityanditer": {
-      "titulo": "Solvability and iterative approximation of an infinite system of two-variable Hadamard-type fractional integral equations in\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" display=\"inline\" id=\"d1e179\">\n<mml:msub>\n<mml:mrow>\n<mml:mi>ℓ</mml:mi>\n</mml:mrow>\n<mml:mrow>\n<mml:mi>p</mml:mi>\n</mml:mrow>\n</mml:msub>\n</mml:math>\nspace",
+      "titulo": "Solvability and iterative approximation of an infinite system of two-variable Hadamard-type fractional integral equations in ℓ p space",
       "autores": [
         "Halder, Sukanta",
         "Deepmala",
@@ -9466,7 +9466,7 @@
       "doi": "10.1016/j.cam.2025.117001"
     },
     "Wang2026Momentumaccelerated": {
-      "titulo": "Momentum-accelerated Richardson(\n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si317.svg\" display=\"inline\" id=\"d1e4762\">\n<mml:mi>m</mml:mi>\n</mml:math>\n) neural solvers and their multi-level extensions",
+      "titulo": "Momentum-accelerated Richardson( m ) neural solvers and their multi-level extensions",
       "autores": [
         "Wang, Zhen",
         "Liu, Yun",
@@ -9645,7 +9645,7 @@
       "doi": "10.1016/j.csda.2025.108278"
     },
     "Wang2026Phasetransitionin": {
-      "titulo": "Phase transition in the EM scheme of an SDE driven by <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si14.svg\" display=\"inline\" id=\"d1e2512\"><mml:mi>α</mml:mi></mml:math>-stable noises with <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si15.svg\" display=\"inline\" id=\"d1e2517\"><mml:mrow><mml:mi>α</mml:mi><mml:mo linebreak=\"goodbreak\" linebreakstyle=\"after\">∈</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mn>2</mml:mn><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:math>",
+      "titulo": "Phase transition in the EM scheme of an SDE driven by α-stable noises with α∈(0,2]",
       "autores": [
         "Wang, Yu",
         "Xiao, Yimin",
@@ -9724,7 +9724,7 @@
       "doi": "10.1016/j.tsc.2025.101991"
     },
     "Muoi2026Learningawaterqua": {
-      "titulo": "Learning a water quality model with time dependent parameters by <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si454.svg\" display=\"inline\" id=\"d1e561\"><mml:msup><mml:mrow><mml:mi>l</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:math>-weighted regularization",
+      "titulo": "Learning a water quality model with time dependent parameters by l1-weighted regularization",
       "autores": [
         "Muoi, Pham Quy",
         "Hiep, Duong Xuan"
@@ -10267,7 +10267,7 @@
       "doi": "10.1016/j.tsc.2025.102040"
     },
     "Behera2026mmlmathxmlnsmml": {
-      "titulo": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si786.svg\" display=\"inline\" id=\"d1e6756\"><mml:mi>M</mml:mi></mml:math>-QR decomposition and hyperpower iterative methods for computing outer inverses of tensors",
+      "titulo": "M-QR decomposition and hyperpower iterative methods for computing outer inverses of tensors",
       "autores": [
         "Behera, Ratikanta",
         "Panigrahy, Krushnachandra",
@@ -10658,7 +10658,7 @@
       "doi": "10.1016/j.compbiolchem.2025.108755"
     },
     "Dey2026Classicalandobject": {
-      "titulo": "Classical and objective Bayesian inference of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si430.svg\" display=\"inline\" id=\"d1e6520\"><mml:msub><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi><mml:mi>y</mml:mi></mml:mrow></mml:msub></mml:math> for first-failure progressively censored samples",
+      "titulo": "Classical and objective Bayesian inference of Cpy for first-failure progressively censored samples",
       "autores": [
         "Dey, Sanku",
         "Dutta, Subhankar",
@@ -10854,7 +10854,7 @@
       "doi": "10.1016/j.cam.2025.116848"
     },
     "Kapl2026Ammlmathxmlnsmm": {
-      "titulo": "A <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si12.svg\" display=\"inline\" id=\"d1e5625\"><mml:msup><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msup></mml:math>-smooth mixed degree and regularity isogeometric spline space over planar multi-patch domains",
+      "titulo": "A Cs-smooth mixed degree and regularity isogeometric spline space over planar multi-patch domains",
       "autores": [
         "Kapl, Mario",
         "Kosmač, Aljaž",
@@ -11990,7 +11990,7 @@
       "doi": "10.1016/j.compbiolchem.2025.108756"
     },
     "Wang2026Themmlmathxmlns": {
-      "titulo": "The <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" display=\"inline\" id=\"d1e2467\"><mml:mover accent=\"true\"><mml:mrow><mml:mi>∂</mml:mi></mml:mrow><mml:mrow><mml:mo>̄</mml:mo></mml:mrow></mml:mover></mml:math>-dressing method, B<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" display=\"inline\" id=\"d1e2477\"><mml:mover accent=\"true\"><mml:mrow><mml:mi mathvariant=\"normal\">a</mml:mi></mml:mrow><mml:mrow><mml:mo>̈</mml:mo></mml:mrow></mml:mover></mml:math>cklund transformation and exact solutions for a (3+1)-dimensional generalized Ito equation",
+      "titulo": "The ∂̄-dressing method, Bäcklund transformation and exact solutions for a (3+1)-dimensional generalized Ito equation",
       "autores": [
         "Wang, Zhenbo",
         "Zhang, Yufeng",
@@ -12210,7 +12210,7 @@
       "doi": "10.1016/j.cam.2025.116847"
     },
     "ALKAN2026Thenumericalanalys": {
-      "titulo": "The numerical analysis of Caputo-Fabrizio fractional mathematical model of Cancer Chemotherapy",
+      "titulo": "The numerical analysis of Caputo-Fabrizio fractional mathematical model of Cancer Chemotherapy",
       "autores": [
         "ALKAN, Aslı",
         "BULUT, Hasan"
@@ -12635,7 +12635,7 @@
       "doi": "10.1177/14727978251380803"
     },
     "Korlipara2025iGettingtotheRo": {
-      "titulo": "<i>Getting to the Root!</i>\nA Systems Thinking Approach to Employee (Dis-) Engagement at an Indian Public Sector Unit",
+      "titulo": "Getting to the Root! A Systems Thinking Approach to Employee (Dis-) Engagement at an Indian Public Sector Unit",
       "autores": [
         "Korlipara, Madhuri",
         "Raju, Prageetha G."
@@ -13093,7 +13093,7 @@
       "doi": "10.1177/14727978251374988"
     },
     "Farhadi2025IntegrativeComputat": {
-      "titulo": "Integrative Computational and Bioactivity-Guided Strategies for Isolating Cytotoxic Phytochemicals in Ginger (\n<i>Zingiber officinale</i>\nRoscoe)",
+      "titulo": "Integrative Computational and Bioactivity-Guided Strategies for Isolating Cytotoxic Phytochemicals in Ginger ( Zingiber officinale Roscoe)",
       "autores": [
         "Farhadi, Faegheh",
         "Langarizadeh, Mohammad Amin",
@@ -14316,7 +14316,7 @@
       "doi": "10.1177/14727978251369645"
     },
     "Im2025TowardH": {
-      "titulo": "Toward H\n<sub>2</sub>\nICE: Experimental and computational characterization of hydrogen injection, mixing, and combustion",
+      "titulo": "Toward H 2 ICE: Experimental and computational characterization of hydrogen injection, mixing, and combustion",
       "autores": [
         "Im, Hong G",
         "Liu, Xinlei",
@@ -14420,7 +14420,7 @@
       "doi": "10.1177/14727978251366510"
     },
     "Sreenivasulu2025Computationalstudy": {
-      "titulo": "Computational study of radiative magnetohydrodynamic non-Newtonian MgO-TiO\n<sub>2</sub>\n-CH\n<sub>3</sub>\nOH hybrid nanofluid transport from a stretching substrate: Nano-cosmetic manufacturing simulation",
+      "titulo": "Computational study of radiative magnetohydrodynamic non-Newtonian MgO-TiO 2 -CH 3 OH hybrid nanofluid transport from a stretching substrate: Nano-cosmetic manufacturing simulation",
       "autores": [
         "Sreenivasulu, Pandikunta",
         "Poornima, Tamalapakula",
@@ -18909,7 +18909,7 @@
       "doi": "10.1177/14727978251322746"
     },
     "Zhang2025Evaluate": {
-      "titulo": "Evaluate\n<i>K</i>\nNN stream queries by cache mechanisms",
+      "titulo": "Evaluate K NN stream queries by cache mechanisms",
       "autores": [
         "Zhang, Yu",
         "Song, Xin",
@@ -19383,7 +19383,7 @@
       "doi": "10.1177/14727978251355774"
     },
     "Melacarne2025iBeyondi": {
-      "titulo": "<i>Beyond</i>\n<i>the Fascination of Critical Thinking</i>\n: The Contribution of Post-critical Pedagogy in Transformative Radicalization Studies",
+      "titulo": "Beyond the Fascination of Critical Thinking : The Contribution of Post-critical Pedagogy in Transformative Radicalization Studies",
       "autores": [
         "Melacarne, Claudio",
         "Fabbri, Loretta",
@@ -20503,7 +20503,7 @@
       "doi": "10.1177/14727978251337891"
     },
     "Jam2025AdsorptionofC": {
-      "titulo": "Adsorption of C\n<sub>6</sub>\nH\n<sub>6−n</sub>\nF\n<sub>n</sub>\n(n = 1-6) molecules on Mg\n<sub>4</sub>\nO\n<sub>4</sub>\ncluster: A computational study",
+      "titulo": "Adsorption of C 6 H 6−n F n (n = 1-6) molecules on Mg 4 O 4 cluster: A computational study",
       "autores": [
         "Jam, Maryam Taheri",
         "Ghiasi, Reza",
@@ -20614,7 +20614,7 @@
       "doi": "10.1177/22143602251336076"
     },
     "Alshaghdali2025ComputationalScreen": {
-      "titulo": "Computational Screening of Bioactive Compounds of\n<i>Gymnema sylvestre</i>\nfor ALR2 Inhibition: A Virtual Screening Approach",
+      "titulo": "Computational Screening of Bioactive Compounds of Gymnema sylvestre for ALR2 Inhibition: A Virtual Screening Approach",
       "autores": [
         "Alshaghdali, Khalid",
         "Rezgui, Raja",
@@ -21055,7 +21055,7 @@
       "doi": "10.1177/20416695251344457"
     },
     "Bich2025BroadSpectrumAntim": {
-      "titulo": "Broad-Spectrum Antimicrobial Properties of\n<i>Jatropha podagrica</i>\nExtracts Against Intestinal Bacteria: A Combined Laboratory and Computational Study",
+      "titulo": "Broad-Spectrum Antimicrobial Properties of Jatropha podagrica Extracts Against Intestinal Bacteria: A Combined Laboratory and Computational Study",
       "autores": [
         "Bich, Van Ngo Thai",
         "Thien, Y Ngo Huynh",
@@ -21097,7 +21097,7 @@
       "doi": "10.1177/03913988251334885"
     },
     "Le2025Phytochemicalsfrom": {
-      "titulo": "Phytochemicals from\n<i>Aralia armata</i>\nas potential tumor necrosis factor-alpha inhibitors: A computational study",
+      "titulo": "Phytochemicals from Aralia armata as potential tumor necrosis factor-alpha inhibitors: A computational study",
       "autores": [
         "Le, Vu Thi Thu",
         "Tan, Luc Quang",
@@ -21863,7 +21863,7 @@
       "doi": "10.1177/17483026251331497"
     },
     "Zhao2025AGenerativeArtific": {
-      "titulo": "A Generative Artificial Intelligence (AI)-Based Human-Computer Collaborative Programming Learning Method to Improve Computational Thinking, Learning Attitudes, and  Learning Achievement",
+      "titulo": "A Generative Artificial Intelligence (AI)-Based Human-Computer Collaborative Programming Learning Method to Improve Computational Thinking, Learning Attitudes, and Learning Achievement",
       "autores": [
         "Zhao, Gang",
         "Yang, Lijun",
@@ -21875,7 +21875,7 @@
       "doi": "10.1177/07356331251336154"
     },
     "Meyrick2025Rethinkingculture": {
-      "titulo": "(Re)thinking culture thickly: The public realm from Hannah Arendt’s\n<i>The Human Condition</i>\nto the Bennett Institute report",
+      "titulo": "(Re)thinking culture thickly: The public realm from Hannah Arendt’s The Human Condition to the Bennett Institute report",
       "autores": [
         "Meyrick, Julian"
       ],
@@ -21976,7 +21976,7 @@
       "doi": "10.1177/14727978251321333"
     },
     "Campbell2025Inheritingwomynsl": {
-      "titulo": "Inheriting womyn’s land\n<sub>1</sub>\n: ‘thinking-with’ feminist lineages in a messy archive",
+      "titulo": "Inheriting womyn’s land 1 : ‘thinking-with’ feminist lineages in a messy archive",
       "autores": [
         "Campbell, Katelyn M"
       ],
@@ -22298,7 +22298,7 @@
       "doi": "10.1177/14727978251322043"
     },
     "Zhang2025Healthimpactreduct": {
-      "titulo": "Health impact reduction design strategies according to the circulation pattern of indoor PM\n<sub>2.5</sub>\nusing computational fluid dynamics models",
+      "titulo": "Health impact reduction design strategies according to the circulation pattern of indoor PM 2.5 using computational fluid dynamics models",
       "autores": [
         "Zhang, Runbin",
         "Chen, Siyu",
@@ -22594,7 +22594,9 @@
     "Fashwan2025ComputationalLingui": {},
     "Khn2025ComputationalApproa": {},
     "Shao2025MyPillowKnowsMyS": {},
-    "Connolly2025THINKINGISSUESFut": {},
+    "Connolly2025THINKINGISSUESFut": {
+      "Clear2024THINKINGISSUES": 0.2857142857142857
+    },
     "Aguilera2025IntuitionisticGdel": {},
     "Kramarczuk2025THINKINGISSUESWhy": {},
     "Khan2025ASemanticsforModa": {},
@@ -22604,7 +22606,9 @@
     "Dong2025TheComputationalAd": {},
     "Huang2025GeometricContactPo": {},
     "Fabiano2025ThinkingFastandSl": {},
-    "RosilloRodes2025Computationallexica": {},
+    "RosilloRodes2025Computationallexica": {
+      "Gokmen2022ComputationalModeli": 0.25
+    },
     "Sitaraman2025DynamicIncentiveAl": {},
     "Howlader2025OntheLogicalandA": {},
     "Place2025ClosingStarFreeCl": {},
@@ -22625,9 +22629,7 @@
     "Wee2025TeachVRAnImmersiv": {},
     "Oliveira2025SIGACTNewsComplexi": {},
     "Maggi2025ProbabilisticTempor": {},
-    "Gurevich2025PrimalLogicofInfo": {
-      "Aamer2023InputsOutputsand": 0.2727272727272727
-    },
+    "Gurevich2025PrimalLogicofInfo": {},
     "Ganty2025TheReachableSimula": {},
     "Ketsman2025ParallelCorrectness": {},
     "Wertenbroek2025APortableLinuxbas": {},
@@ -22644,13 +22646,16 @@
     "Fomin2024CompoundLogicsfor": {},
     "Larrauri2024SolvingPromiseEqua": {},
     "Nehme2024GenerativeAIforSo": {},
-    "Li2024KishuTimeTravelin": {},
+    "Li2024KishuTimeTravelin": {
+      "Liu2023RefactoringinCompu": 0.25
+    },
     "Alexander2024LearningfromNature": {},
     "Becker2024ComputationalDesign": {
-      "Huang2023GEOAComputational": 0.26666666666666666,
-      "Javadi2023AComprehensiveMode": 0.29411764705882354
+      "Kodnongbua2022Computationaldesign": 0.25
     },
-    "Le2024ComputationalBiomim": {},
+    "Le2024ComputationalBiomim": {
+      "Pellis2021Computationaldesign": 0.25
+    },
     "Bergstra2024ACompleteFiniteAx": {},
     "Wang2024CommSenseAWearabl": {},
     "Dubiel2024HeyGenieYouGot": {},
@@ -22658,16 +22663,18 @@
     "Torn2024CuttingPlanesWidth": {},
     "Redondi2024InvariantCheckingf": {},
     "Hirvonen2024TheImplicationProb": {},
-    "Melgratti2024AReversiblePerspec": {},
-    "Fussner2024InterpolationinLin": {},
-    "Shen2024ComputationallyHard": {
-      "Wang2023WitnessesforAnswer": 0.3076923076923077
+    "Melgratti2024AReversiblePerspec": {
+      "Lopes2021ReasoningaboutPetr": 0.3125
     },
+    "Fussner2024InterpolationinLin": {},
+    "Shen2024ComputationallyHard": {},
     "Pessoa2024ZoAMGameBotAJour": {},
     "Smith202417Students1Proje": {},
     "Clear2024THINKINGISSUES": {},
     "Kirchweger2024SATModuloSymmetrie": {},
-    "Aguilera2024FundamentalLogicIs": {},
+    "Aguilera2024FundamentalLogicIs": {
+      "Kuznetsov2021ActionLogicisUnde": 0.3333333333333333
+    },
     "Zhu2024ComputationalIllusi": {},
     "Ren2024ComputationalHomoge": {},
     "Shi2024SplitAperture2in": {},
@@ -22683,7 +22690,9 @@
     "Lechowicz2024TheOnlinePauseand": {},
     "Steen2024TheProblemwiththe": {},
     "Lipp2024ViewIndependentAdj": {},
-    "Espinal2024ProfessionalDevelop": {},
+    "Espinal2024ProfessionalDevelop": {
+      "Razi2021AHumanCenteredSys": 0.2631578947368421
+    },
     "Priya2024ComputationalPolite": {},
     "Zilberstein2024OutcomeSeparationL": {},
     "Carrasco2024ComputationalTechni": {},
@@ -22692,7 +22701,9 @@
     "Lanese2024AnAxiomaticTheory": {},
     "Artale2024FirstOrderTemporal": {},
     "Cate2024CharacterisingModal": {},
-    "Kupferman2024TheComplexityofLT": {},
+    "Kupferman2024TheComplexityofLT": {
+      "Arenas2021TheComplexityofCo": 0.2727272727272727
+    },
     "Bruyre2024StackelbergParetoS": {},
     "Paul2024TarazuAnAdaptive": {},
     "Yarovikov2024SpectrumofFOLogic": {},
@@ -22712,10 +22723,13 @@
     "Sha2023TEEbasedGeneralpu": {},
     "Ng2023RecruitmentPromotio": {},
     "Lechowicz2023TheOnlinePauseand": {},
-    "Zhang2023ComputationalDesign": {},
+    "Zhang2023ComputationalDesign": {
+      "Chen2022Computationaldesign": 0.3,
+      "Gavriil2020Computationaldesign": 0.3
+    },
     "Zhou2023ComputationalDesign": {
-      "Montes2020Computationaldesign": 0.3333333333333333,
-      "Pellis2021Computationaldesign": 0.3333333333333333
+      "Zhang2021Jointcomputational": 0.3,
+      "Gavriil2020Computationaldesign": 0.3
     },
     "Ge2023EnhancingRigorinC": {},
     "Ding2023ComputationalTechno": {},
@@ -22738,27 +22752,27 @@
     "Xu2023AnFPGAAccelerator": {},
     "Suto2023CraneAnIntegrated": {},
     "Borowski2023BetweenPrinciplean": {},
-    "Aamer2023InputsOutputsand": {
-      "Cavalcanti2020InputsandOutputsi": 0.36363636363636365
-    },
+    "Aamer2023InputsOutputsand": {},
     "Dong2023ResearchOntheOpti": {},
     "Fekete2023MinimumPartitionin": {},
     "Adamou2023TheFacetsofIntang": {},
     "Makatura2023ProceduralMetamater": {},
-    "Vidulis2023ComputationalExplor": {
-      "Zhang2021ComputationalDesign": 0.3
+    "Vidulis2023ComputationalExplor": {},
+    "Piovarci2023SkinScreenACompu": {
+      "Mooij2022AComputationalFram": 0.26666666666666666
     },
-    "Piovarci2023SkinScreenACompu": {},
-    "Tang2023BeyondChainmailCo": {
-      "Chen2022Computationaldesign": 0.25
-    },
+    "Tang2023BeyondChainmailCo": {},
     "Tabellion2023ComputationalLongE": {},
     "Cai2023LocalSearchForSat": {},
     "Schirrmacher2023FirstorderLogicwi": {},
     "Bryant2023GeneratingExtended": {},
-    "Hope2023AComputationalInfl": {},
+    "Hope2023AComputationalInfl": {
+      "Huang2023GEOAComputational": 0.2
+    },
     "Bachiega2023ComputationalResour": {},
-    "Kalakanti2023ComputationalChalle": {},
+    "Kalakanti2023ComputationalChalle": {
+      "Jiang2021Usingisometriesfor": 0.2727272727272727
+    },
     "Williams2023AComputationalMode": {},
     "Chang2023ADASu": {},
     "Sharma2023SparseIMUComputati": {},
@@ -22786,17 +22800,19 @@
     "Takagi2023SemanticAnalysisof": {},
     "Benedikt2023OnMonotonicDetermi": {},
     "Pelnek2023TheLandscapeofCom": {
-      "Bleyer2020AutomatingtheFormu": 0.26666666666666666,
+      "Corbara2022scpMedLatinEpisc": 0.2631578947368421,
       "Denning2021Computationalthinki": 0.2727272727272727
     },
     "Soldavini2023AutomaticCreationo": {},
     "Feng2023DeepLearninginCom": {},
     "Li2023EDAssistantSupport": {},
-    "Huang2023GEOAComputational": {},
-    "Sanzo2023ReplicationofCompu": {},
-    "Wareham2023SwarmControlforDi": {
-      "Liu2022TrustworthyAIACo": 0.2727272727272727
+    "Huang2023GEOAComputational": {
+      "Hope2023AComputationalInfl": 0.2
     },
+    "Sanzo2023ReplicationofCompu": {
+      "Pellegrini2020ReplicationofCompu": 0.3333333333333333
+    },
+    "Wareham2023SwarmControlforDi": {},
     "Ammari2023AComputationalGeom": {},
     "Lee2023DeployingComputatio": {},
     "Baxter2023TestingusingCSPMo": {},
@@ -22832,13 +22848,11 @@
     "Barrett2022ASubatomicProofSy": {},
     "Case2022TheIntersectionof": {},
     "HeydariGorji2022LeveragingComputati": {},
-    "Michaud2022DesignThinkingand": {
-      "Carta2020Machinelearningand": 0.2857142857142857
+    "Michaud2022DesignThinkingand": {},
+    "ref2022SIGHPCComputational": {
+      "ref2020SIGHPCcomputational": 0.3333333333333333
     },
-    "ref2022SIGHPCComputational": {},
-    "Mooij2022AComputationalFram": {
-      "Yan2022AComputationalFram": 0.22222222222222224
-    },
+    "Mooij2022AComputationalFram": {},
     "Giannini2022ComputationalCultur": {},
     "Corbara2022scpMedLatinEpisc": {},
     "Lv2022ComputationalIntell": {},
@@ -22847,21 +22861,21 @@
     "Wu2022ComputationalMirror": {
       "Liu2019Computationalpeelin": 0.25
     },
-    "Mike2022Computationalthinki": {
-      "Kutay2022CodingwithMinecraf": 0.21333333333333335,
-      "Hughes2019Thelawsofthought": 0.25,
-      "Kirkpatrick2019Theedgeofcomputat": 0.3,
-      "Frauenberger2019Waysofthinkingin": 0.3
+    "Mike2022Computationalthinki": {},
+    "Wu2022ReplicatedComputati": {
+      "Quaglia2019ReplicatedComputati": 0.3157894736842105
     },
-    "Wu2022ReplicatedComputati": {},
     "Honorio2022UsingBarrierElisio": {},
     "Kodnongbua2022Computationaldesign": {
-      "Zhang2019Computationaldesign": 0.42857142857142855,
-      "Zhang2021ComputationalDesign": 0.3333333333333333,
-      "Montes2020Computationaldesign": 0.42857142857142855
+      "Montes2020Computationaldesign": 0.42857142857142855,
+      "Zhang2021Jointcomputational": 0.3333333333333333,
+      "Gavriil2020Computationaldesign": 0.3333333333333333,
+      "Chen2022Computationaldesign": 0.26666666666666666,
+      "Zhang2021ComputationalDesign": 0.3333333333333333
     },
     "Chen2022Computationaldesign": {
-      "Zhang2021ComputationalDesign": 0.2727272727272727
+      "Panetta2021Computationalinvers": 0.2727272727272727,
+      "Kodnongbua2022Computationaldesign": 0.26666666666666666
     },
     "Pietroni2022Computationalpatter": {},
     "Pellegrini2022ReviewofDesignTh": {},
@@ -22879,32 +22893,28 @@
     "Fomin2022ParameterizedComple": {},
     "Larose2022QCSPonReflexiveTo": {},
     "Blumenthal2022Thinkinglikealawy": {},
-    "Quaranta2022ElicitingBestPract": {},
+    "Quaranta2022ElicitingBestPract": {
+      "Wang2019HowDataScientists": 0.2857142857142857
+    },
     "Katuka2022TheRelationshipbet": {},
     "Gu2022AIEnabledTaskOffl": {},
     "Varde2022ComputationalEstima": {},
     "Tang2022AReclassification": {},
     "Demaine2022AreaOptimalSimple": {},
-    "Yan2022AComputationalFram": {
-      "Mooij2022AComputationalFram": 0.22222222222222224
-    },
+    "Yan2022AComputationalFram": {},
     "Crum2022BringingTrimmedSer": {},
     "Scott2022AComputationalStud": {},
     "Balos2022ReproducedComputati": {},
     "Balbiani2022AsynchronousAnnounc": {},
     "Luo2022ElementaryComputati": {},
-    "Kutay2022CodingwithMinecraf": {
-      "Mike2022Computationalthinki": 0.21333333333333335
-    },
+    "Kutay2022CodingwithMinecraf": {},
     "Podder2022ZeroOneLawsforEx": {
       "Gajarsk2020FirstOrderInterpre": 0.26666666666666666
     },
     "Wang2022DocumentationMatter": {},
     "Gauthier2022TheComputationalTh": {},
     "Sutton2022SeeingColoursAddr": {},
-    "Grdel2022LogicswithMultitea": {
-      "Kiefer2021GraphsIdentifiedby": 0.25
-    },
+    "Grdel2022LogicswithMultitea": {},
     "Almagor2022OMinimalInvariants": {},
     "Anevlavis2022BeingCorrectIsNot": {},
     "Kupke2022CoalgebraicReasonin": {},
@@ -22913,11 +22923,10 @@
     "Pessanha2021AComputationalLook": {},
     "Hogervorst2021HardwareAcceleratio": {},
     "Jones2021ComputationalDesign": {
-      "Zhang2019Computationaldesign": 0.42857142857142855
+      "Zhang2019Computationaldesign": 0.42857142857142855,
+      "Xiao2018ComputationalDesign": 0.3333333333333333
     },
-    "Zhang2021Jointcomputational": {
-      "Auzinger2018Computationaldesign": 0.25
-    },
+    "Zhang2021Jointcomputational": {},
     "Blumenthal2021Thinkinglikealawy": {},
     "Nanni2021PoliticalTextScali": {},
     "Du2021DiffPDDifferentiab": {},
@@ -22926,9 +22935,10 @@
     "Dawar2021SymmetricCircuitsf": {},
     "Barthe2021UniversalEquivalenc": {},
     "Denning2021Computationalthinki": {
-      "Yaar2018Anewperspectiveon": 0.25,
-      "Tissenbaum2019Fromcomputationalt": 0.2857142857142857,
-      "Fan2019Distributedstrategi": 0.2857142857142857
+      "Fan2019Distributedstrategi": 0.2857142857142857,
+      "Nardelli2019Dowereallyneedco": 0.25,
+      "Xiao2019ConceptualRepresent": 0.25,
+      "Heintz2018Computationalthinki": 0.6
     },
     "Lai2021BeyondProgramming": {},
     "Berres2021The14thACMSIGSPAT": {},
@@ -22938,11 +22948,15 @@
     "Guidi2021AFormalSystemfor": {},
     "Gallo2021LocalBeliefDynamic": {},
     "Kiefer2021GraphsIdentifiedby": {},
-    "Shojaati2021DynamicComputationa": {},
+    "Shojaati2021DynamicComputationa": {
+      "Abulaish2020ASurveyofFigurati": 0.25
+    },
     "Miller2021SynchronywithinTri": {},
     "Razi2021AHumanCenteredSys": {},
     "Biggs2021AlternativestoAgri": {},
-    "Zhang2021ComputationalDesign": {},
+    "Zhang2021ComputationalDesign": {
+      "Gavriil2020Computationaldesign": 0.2727272727272727
+    },
     "Clasun2021SpikingNeuralNetwo": {},
     "Heltai2021PropagatingGeometry": {},
     "Liu2021ComputationalObject": {},
@@ -22959,16 +22973,16 @@
     "Andelfinger2021ReplicatedComputati": {},
     "Dudenhefner2021KripkeSemanticsfor": {},
     "Jiang2021Usingisometriesfor": {},
-    "Panetta2021Computationalinvers": {
-      "Auzinger2018Computationaldesign": 0.25
-    },
+    "Panetta2021Computationalinvers": {},
     "Wei2021ComputationalModel": {},
     "Pellis2021Computationaldesign": {},
     "Ma2021DiffAqua": {},
     "Grossmann2021ReplicationofCompu": {},
     "Kim2021GeneratingLegiblea": {},
     "Skeba2021WhohasaChoiceS": {},
-    "Pinto2021Acomputationalcrea": {},
+    "Pinto2021Acomputationalcrea": {
+      "Lodha2019ASATApproachtoBr": 0.3
+    },
     "Sinders2021Thelaborbehindthe": {},
     "Deuser2021StrategicKnowledge": {},
     "Ciabattoni2021DisplaytoLabeledP": {},
@@ -22977,17 +22991,13 @@
     "Lucia2021ComputationalNanosa": {},
     "Khurana2021EnvisioningAlternat": {},
     "Roy2021AnIntegratedApproa": {},
-    "Lopes2021ReasoningaboutPetr": {
-      "Tomovi2020AFirstorderLogic": 0.29411764705882354
-    },
+    "Lopes2021ReasoningaboutPetr": {},
     "Benedikt2021InferencefromVisib": {},
     "Broadbent2021HigherorderRecursi": {},
     "Gutierrez2021ExpressivenessandN": {},
     "Kuznetsov2021ActionLogicisUnde": {},
     "Krajek2021SmallCircuitsandD": {},
-    "Demri2021TheEffectsofAddin": {
-      "Echenim2020TheBernaysSchnfin": 0.29411764705882354
-    },
+    "Demri2021TheEffectsofAddin": {},
     "Wiese2021ItMustIncludeRul": {},
     "Liu2021HCDA": {},
     "Keyes2021YouKeepUsingThat": {},
@@ -23007,8 +23017,12 @@
     "Cao2021MyTeamWillGoOn": {},
     "Neang2021DataIntegrationas": {},
     "Bogaerts2021StratificationinAp": {},
-    "Berthon2021StrategyLogicwith": {},
-    "Cockx2021Thetamingofthere": {},
+    "Berthon2021StrategyLogicwith": {
+      "Huang2018AnEpistemicStrateg": 0.2857142857142857
+    },
+    "Cockx2021Thetamingofthere": {
+      "Kirkpatrick2019Theedgeofcomputat": 0.25
+    },
     "Chen2021Acomputationalinte": {},
     "Pellegrini2020ReplicationofCompu": {},
     "Drosopoulos2020DatadrivenComputat": {},
@@ -23017,14 +23031,10 @@
     "ref2020SIGHPCcomputational": {},
     "Oetsch2020BeyondUniformEquiv": {},
     "ref2020SIGHPCdissertation": {},
-    "Gavriil2020Computationaldesign": {
-      "Auzinger2018Computationaldesign": 0.25
-    },
+    "Gavriil2020Computationaldesign": {},
     "Britz2020PrinciplesofKLMst": {},
     "Shreeve2020SoifMrBlueHead": {},
-    "Baldan2020ModelCheckingaLog": {
-      "Bozzelli2018IntervalvsPointT": 0.2727272727272727
-    },
+    "Baldan2020ModelCheckingaLog": {},
     "Bomanson2020ApplyingVisibleStr": {},
     "Meyden2020UndecidableCasesof": {},
     "Chatterjee2020ComputationalSustai": {},
@@ -23042,23 +23052,27 @@
     "Gajarsk2020FirstOrderInterpre": {},
     "Gajarsk2020ANewPerspectiveon": {},
     "Amarilli2020FiniteOpenworldQu": {},
-    "McDonald2020TheImpactofThinki": {},
+    "McDonald2020TheImpactofThinki": {
+      "Hughes2019Thelawsofthought": 0.25
+    },
     "Rajsbaum202060YearsofMasterin": {},
     "Alistarh2020DistributedComputin": {},
     "Shukla2020ThinkingUnveiled": {},
     "Whiting2020ParallelWorldsRep": {},
     "Saxena2020MethodsforGenerati": {},
-    "Carta2020Machinelearningand": {
-      "Zhang2019Computationaldesign": 0.25
-    },
+    "Carta2020Machinelearningand": {},
     "Cavalcanti2020InputsandOutputsi": {},
     "Zhang2020OctahedralFramesfo": {},
     "Pitts2020TypalHeterogeneous": {},
     "Menghi2020ModelCheckingMITL": {},
     "Hamilton2020AcceleratingScienti": {},
-    "Rai2020ASurveyonComputat": {},
+    "Rai2020ASurveyonComputat": {
+      "Braga2018SurveyonComputatio": 0.3
+    },
     "Goncharov2020TowardaUniformThe": {},
-    "Zhu2020ComputationalGeomet": {},
+    "Zhu2020ComputationalGeomet": {
+      "Dumitrescu2019ComputationalGeomet": 0.6
+    },
     "Fiorentini2020DualitybetweenUnpr": {},
     "Herbreteau2020WhyLivenessforTim": {},
     "Saha2020Interactivecomputat": {},
@@ -23068,18 +23082,16 @@
     "Hernich2020DichotomiesinOntol": {},
     "Burel2020LinkingFocusingand": {},
     "Carayol2020HowGoodIsaStrate": {},
-    "Magdy20201stACMSIGSPATIALW": {},
+    "Magdy20201stACMSIGSPATIALW": {
+      "Xu2018IWCTS2017TenthAC": 0.2777777777777778
+    },
     "Nath2020Thinkinggloballyc": {},
     "Abulaish2020ASurveyofFigurati": {},
     "Werner2020ComputationalSophis": {},
-    "Iseringhausen2020ComputationalParque": {
-      "Lamb2018EvaluatingComputati": 0.25
-    },
+    "Iseringhausen2020ComputationalParque": {},
     "Tomovi2020AFirstorderLogic": {},
     "Montenegro2020ExtendingLiquidTyp": {},
-    "Carreiro2020ThePoweroftheWea": {
-      "Kirkpatrick2019Theedgeofcomputat": 0.2857142857142857
-    },
+    "Carreiro2020ThePoweroftheWea": {},
     "Feng2019MTLandTPTLforOne": {},
     "Balbiani2019IntuitionisticLinea": {},
     "Rajsbaum2019Masteringconcurrent": {},
@@ -23090,9 +23102,7 @@
     "Wang2019HowDataScientists": {},
     "Whiting2019DidItHaveToEndT": {},
     "Cerna2019IdempotentAntiunif": {},
-    "Guzdial2019Computationalthinki": {
-      "Heintz2018Computationalthinki": 0.25
-    },
+    "Guzdial2019Computationalthinki": {},
     "Joshi2019SurveyofTextbased": {},
     "Peled2019ANeuralNetworkPre": {},
     "Bana2019VerificationMethods": {},
@@ -23240,21 +23250,17 @@
     "Gao2026Anenergymomentum": {},
     "Xue2026Exactlydivergencef": {},
     "Jansen2026Constructingwavelet": {},
-    "Wang2026Adeepneuralnetwor": {
-      "Zhu2026PhysicsSolverTrans": 0.2782608695652174
-    },
+    "Wang2026Adeepneuralnetwor": {},
     "Wu2026Totalcurvaturedriv": {},
-    "zarslan2026Thegeneralizationo": {
-      "Wang2026Phasetransitionin": 0.2923076923076923,
-      "Ji2026Scenariotreereduct": 0.23529411764705885,
-      "Halder2026Solvabilityanditer": 0.256
-    },
+    "zarslan2026Thegeneralizationo": {},
     "Cai2026Quaternionversiono": {},
     "Xu2026Analysisandnumeric": {},
     "Lim2026Uniformalmostsure": {},
     "Perera2026Alowcomplexityalg": {},
     "goston2026Maximizingthemaxim": {},
-    "Evirgen2026Mathematicalanalysi": {},
+    "Evirgen2026Mathematicalanalysi": {
+      "ALKAN2026Thenumericalanalys": 0.2
+    },
     "Dou2026Robusttrajectorypl": {},
     "Huang2026Modifiedmodulusbas": {},
     "Currier2026Onthestructureof": {},
@@ -23263,9 +23269,7 @@
     "Biniaz2026Cityguardingwithc": {},
     "Tlek2026Ahighperformancec": {},
     "Rivera2026Thermoelasticbeamo": {},
-    "Zhang2026Observerbasedrobus": {
-      "DellAccio2026mmlmathxmlnsmml": 0.20317460317460317
-    },
+    "Zhang2026Observerbasedrobus": {},
     "Badahmane2026Newapproachforsol": {},
     "Peng2026Optimalerrorestima": {},
     "Wembe2026CommutatorfreeCayl": {},
@@ -23275,13 +23279,13 @@
     "Huertas2026Symmetrictruncated": {},
     "Fan2026Onnumericalcomputa": {},
     "Kim2026Representingwithpr": {},
-    "Wang2026Temporalerrorestim": {
-      "Li2026Temporalerroranaly": 0.3076923076923077
-    },
+    "Wang2026Temporalerrorestim": {},
     "Luca2026AnIMEXschemefora": {},
     "Azzarone2026Onawiderclassof": {},
     "Xu2026Optimalrateerrore": {},
-    "Shivanian2026Solvingtheinverse": {},
+    "Shivanian2026Solvingtheinverse": {
+      "Zhang2026Convergenceanalysis": 0.22400000000000003
+    },
     "Liu2026Asecondorderenerg": {},
     "TerceroBez2026Onthestabilityof": {},
     "Zhi2026Subjectiveperceptio": {},
@@ -23294,7 +23298,9 @@
     "Grace2026Oscillatorybehavior": {},
     "Ponomarev2026Magnetisationmoment": {},
     "Jin2026Highordertensornu": {},
-    "Zhang2026Convergenceanalysis": {},
+    "Zhang2026Convergenceanalysis": {
+      "Shivanian2026Solvingtheinverse": 0.22400000000000003
+    },
     "Liang2026Inexactblocktriang": {},
     "Asnaz2026Optimizingthinlaye": {},
     "Bauduin2026Constraintsatisfact": {},
@@ -23307,9 +23313,7 @@
     "Bas2026Multiplicativefract": {},
     "Zhang2026Advancedmethodsof": {},
     "Mastroianni2026Aremarkonaspecia": {},
-    "Taleshian2026Applicationoffract": {
-      "Aghaei2026AnewChebyshevoper": 0.2206896551724138
-    },
+    "Taleshian2026Applicationoffract": {},
     "Ji2026Lowrankapproximati": {},
     "An2026Anefficientscalar": {},
     "Mohammadi2026Approximatesolution": {},
@@ -23319,21 +23323,18 @@
     "Wang2026Curvatureguidedcar": {},
     "Wenzel2026Analysisofstructur": {},
     "Zhang2026Preciseregularizati": {},
-    "Das2026Codesequippedwith": {
-      "Behera2026mmlmathxmlnsmml": 0.29767441860465116,
-      "Wang2026Phasetransitionin": 0.22857142857142856
-    },
+    "Das2026Codesequippedwith": {},
     "Faleichik2026ExplicitRungeKutta": {},
     "Wang2026Robustselectionand": {},
     "Emin2026PixelMapBasedHybr": {},
     "Baranek2026OntherandomizedEu": {},
     "Blanes2026ParallelComputation": {},
-    "Nwaigwe2026Efficienthighorder": {
-      "Naseem2026Ahighefficiencyfo": 0.21052631578947367
-    },
+    "Nwaigwe2026Efficienthighorder": {},
     "Hu2026Developmentofanac": {},
     "Wang2026Generalinertialpro": {},
-    "Zhuang2026Higherdegreerectan": {},
+    "Zhuang2026Higherdegreerectan": {
+      "Chen2026Animmersedfinitee": 0.21052631578947367
+    },
     "Nabil2026Fractionalordersup": {},
     "Ku2026Estimationofparame": {},
     "Zhou2026Fastconvergingpara": {},
@@ -23345,14 +23346,8 @@
     "Chen2026Developingandanaly": {},
     "Shilnikov2026Numericalmodelling": {},
     "Yang2026Thebackwardproblem": {},
-    "Ji2026Scenariotreereduct": {
-      "zarslan2026Thegeneralizationo": 0.23529411764705885
-    },
-    "Djuki2026Interpolationofmm": {
-      "Apai2026QuantumHermiteHada": 0.32000000000000006,
-      "Behera2026mmlmathxmlnsmml": 0.3282051282051282,
-      "Wang2026Phasetransitionin": 0.26666666666666666
-    },
+    "Ji2026Scenariotreereduct": {},
+    "Djuki2026Interpolationofmm": {},
     "Rychlik2026Conditionsforprese": {},
     "Edwards2026Differentiationbase": {},
     "Tzaninis2026ExtensionsofPanjer": {},
@@ -23363,20 +23358,18 @@
     "Hu2026Energydissipationa": {},
     "Nikolaeva2026Multicontinuummodel": {},
     "Park2026Onthebiasofcomme": {},
-    "Zhang2026Exploringtheimpact": {
-      "Zhao2025Analyzetheimpacto": 0.25806451612903225
-    },
+    "Zhang2026Exploringtheimpact": {},
     "Chang2026Thestabilitycompar": {},
     "ref2026EditorialBoard": {},
     "Hu2026Anewmethodbasedo": {},
     "Gie2026Singularlayerphysi": {},
     "Hobhaydar2026Influenceofshortr": {},
     "Cui2026Aninfeasibleprojec": {},
-    "Huang2026Theeffectsofgame": {},
-    "Ani2026Preservicebiology": {},
-    "Lin2026Exploringtheimpact": {
-      "Xue2025Theimpactofcolleg": 0.2727272727272727
+    "Huang2026Theeffectsofgame": {
+      "Sun2026Exploringthecausal": 0.24
     },
+    "Ani2026Preservicebiology": {},
+    "Lin2026Exploringtheimpact": {},
     "Dong2026Highordermultiscal": {},
     "Shahab2026Criticalthinkingin": {},
     "He2026Anenergypreserving": {},
@@ -23389,9 +23382,7 @@
     "Shiri2026UlamHyersstability": {},
     "Huertas2026Mixedtypemultiple": {},
     "Li2026Fastconvergentdoub": {},
-    "Hu2026Feedbackcontroller": {
-      "Halder2026Solvabilityanditer": 0.25660377358490566
-    },
+    "Hu2026Feedbackcontroller": {},
     "Bok2026Computationalcomple": {},
     "HO2026Embedding21stCentu": {},
     "Hamidi2026Modelingsystemdyna": {},
@@ -23403,9 +23394,7 @@
     "Zhang2026Factorsinfluencing": {},
     "Wang2026Measuringearlyengi": {},
     "Kremling2026Bootstrapbasedgood": {},
-    "Auricchio2026Onthecomputationo": {
-      "Winiewska2026Onthecognitiveme": 0.2
-    },
+    "Auricchio2026Onthecomputationo": {},
     "Zhou2026AstudyofAmerican": {},
     "Li2026Ahybridtwolevelw": {},
     "Elsawah2026Inputoutputspacef": {},
@@ -23422,10 +23411,10 @@
     "Ma2026Theeffectofriskt": {},
     "Chastain2026Stochasticepisodes": {},
     "Gou2026AlinearHDGscheme": {},
-    "Gerberding2026AhighorderIMEXme": {},
-    "Apai2026QuantumHermiteHada": {
-      "Djuki2026Interpolationofmm": 0.32000000000000006
+    "Gerberding2026AhighorderIMEXme": {
+      "Naseem2026Ahighefficiencyfo": 0.25263157894736843
     },
+    "Apai2026QuantumHermiteHada": {},
     "Zhou2026Combineddiscontinuo": {},
     "Shih2026Measuringmultivaria": {},
     "Sajidin2026Fosteringcriticalt": {
@@ -23439,7 +23428,9 @@
     "Ge2026Theinfluenceofsoc": {},
     "Fatima2026Electromagneticinfl": {},
     "Durak2026Enhancingtextsumma": {},
-    "Mohapatra2026Anonconformingtem": {},
+    "Mohapatra2026Anonconformingtem": {
+      "Achabbak2026Afractionalpartiti": 0.22857142857142856
+    },
     "Zhang2026Twoefficientalgori": {},
     "ilolu2026Anadaptivealgorith": {},
     "Calgan2026Maskingofmeasureme": {},
@@ -23458,22 +23449,16 @@
     "Barrera2026MultinodeShepardfu": {},
     "Chen2026Amachinelearningr": {},
     "Zang2026Mediationmechanisms": {},
-    "Cai2026Theroleofuncertai": {
-      "Huang2025Theapplicationand": 0.2631578947368421
+    "Cai2026Theroleofuncertai": {},
+    "Crilly2026Criticalthinkingc": {
+      "Roberts2025ComputationalThinki": 0.25
     },
-    "Crilly2026Criticalthinkingc": {},
     "Jia2026Afastcomputational": {},
-    "Aghaei2026AnewChebyshevoper": {
-      "Taleshian2026Applicationoffract": 0.2206896551724138
-    },
+    "Aghaei2026AnewChebyshevoper": {},
     "Li2026Afastgeneralizedp": {},
     "Li2026Upperboundsforeig": {},
     "Liu2026ANystrmmethodfor": {},
-    "DellAccio2026mmlmathxmlnsmml": {
-      "Zhang2026Observerbasedrobus": 0.20317460317460317,
-      "Wang2026Phasetransitionin": 0.25263157894736843,
-      "Kapl2026Ammlmathxmlnsmm": 0.31666666666666665
-    },
+    "DellAccio2026mmlmathxmlnsmml": {},
     "Sousa2026Fractionaldifferent": {},
     "Taniguchi2026Curricularspacesof": {},
     "Primor2026Fosteringcriticale": {},
@@ -23494,14 +23479,9 @@
     "Hadley2026Embeddedentrepreneu": {},
     "Cheng2026Whatmakesamuseum": {},
     "Jiang2026Fosteringbettercre": {},
-    "Lee2026Fastautoregressive": {
-      "Behera2026mmlmathxmlnsmml": 0.22857142857142856,
-      "Dey2026Classicalandobject": 0.23076923076923075
-    },
+    "Lee2026Fastautoregressive": {},
     "Khazaleh2026Highthroughputscre": {},
-    "Ma2026Theimpactofteache": {
-      "Mansour2026Exploringtheimpact": 0.22857142857142856
-    },
+    "Ma2026Theimpactofteache": {},
     "Zhang2026Unconditionalconver": {},
     "Yu2026QuasiNewtonLBFGS": {},
     "KV2026Weightedcumulative": {},
@@ -23511,7 +23491,7 @@
     "LarrazRbanos2026Developmentofcreat": {},
     "Liu2026Enhancinghumancomp": {},
     "Wang2026Theintegrationoft": {
-      "Zhang2025Anempiricalanalysi": 0.2916666666666667
+      "Xuan2025Innovativeresearch": 0.3
     },
     "Hong2026ComparingtheAhae": {},
     "Huang2026Teachersemotional": {},
@@ -23522,16 +23502,13 @@
     "Gedik2026Anumericalstudyon": {},
     "Caliari2026Exponentialquadratu": {},
     "Ghasemi2026mWatchmensroutes": {},
-    "Chen2026Animmersedfinitee": {},
+    "Chen2026Animmersedfinitee": {
+      "Zhuang2026Higherdegreerectan": 0.21052631578947367
+    },
     "Conlon2026Biglineorbigconv": {},
     "Shukla2026Generalizedcopolyn": {},
     "Thiel2026ResamplingNANCOVA": {},
-    "Halder2026Solvabilityanditer": {
-      "Muoi2026Learningawaterqua": 0.22857142857142856,
-      "Wang2026Phasetransitionin": 0.24516129032258066,
-      "Hu2026Feedbackcontroller": 0.25660377358490566,
-      "zarslan2026Thegeneralizationo": 0.256
-    },
+    "Halder2026Solvabilityanditer": {},
     "Antony2026Developmentofauni": {},
     "Tang2026Criticalquestioning": {},
     "Akusta2026Deeplearningenhanc": {},
@@ -23539,9 +23516,7 @@
     "Bollati2026Taumethodimplement": {},
     "Wang2026Momentumaccelerated": {},
     "Zhang2026Inversescatteringt": {},
-    "Winiewska2026Onthecognitiveme": {
-      "Auricchio2026Onthecomputationo": 0.2
-    },
+    "Winiewska2026Onthecognitiveme": {},
     "Yusuf2026Individualvspeers": {},
     "Jerbi2026Aninnovativeneutro": {},
     "Fermo2026AntiGaussLaguerre": {},
@@ -23555,23 +23530,14 @@
     "akirolu2026Buildingblocksofa": {},
     "Cappello2026Recursivenonparamet": {},
     "Diabat2026Changepointdetecti": {},
-    "Wang2026Phasetransitionin": {
-      "zarslan2026Thegeneralizationo": 0.2923076923076923,
-      "Kapl2026Ammlmathxmlnsmm": 0.2064516129032258,
-      "DellAccio2026mmlmathxmlnsmml": 0.25263157894736843,
-      "Halder2026Solvabilityanditer": 0.24516129032258066,
-      "Djuki2026Interpolationofmm": 0.26666666666666666,
-      "Das2026Codesequippedwith": 0.22857142857142856
-    },
+    "Wang2026Phasetransitionin": {},
     "Yu2026Equivalenceofstruc": {},
     "Ossandn2026Ontheapproximatec": {},
     "Arndiga2026Nonlinearquarticqu": {},
     "Haque2026Acomputationallear": {},
     "Zhong2026Preciseandstablec": {},
     "Zhang2026Researchagendasand": {},
-    "Muoi2026Learningawaterqua": {
-      "Halder2026Solvabilityanditer": 0.22857142857142856
-    },
+    "Muoi2026Learningawaterqua": {},
     "Hu2026Delaydependentstab": {},
     "Zhang2026Anextendedvirtual": {},
     "Korotkov2026Applyingasynthetic": {},
@@ -23595,10 +23561,7 @@
     "Wang2026Predictionmodelof": {},
     "Lepp2026Computerprogramming": {},
     "Yaqub2026Rationalmotionsof": {},
-    "Li2026Temporalerroranaly": {
-      "Ding2026Thelargetimestep": 0.22400000000000003,
-      "Wang2026Temporalerrorestim": 0.3076923076923077
-    },
+    "Li2026Temporalerroranaly": {},
     "Torres2026Onadiagonallystre": {},
     "Wu2026Randomforestoftho": {},
     "Ammosov2026Multicontinuuminver": {},
@@ -23613,7 +23576,9 @@
     "Ammari2026Numericalstudyofa": {},
     "Leung2026Fromtalktothought": {},
     "Liang2026Theassociationbetw": {},
-    "Sun2026Exploringthecausal": {},
+    "Sun2026Exploringthecausal": {
+      "Huang2026Theeffectsofgame": 0.24
+    },
     "Du2026Fromcoarsetofine": {},
     "Li2026Criticalityandmeta": {},
     "Sommariva2026Unisolvenceofunsym": {},
@@ -23623,31 +23588,31 @@
     "Chang2026Strategiesforsusta": {},
     "Massy2026Assessingcreativity": {},
     "Liu2026Theimmediateandla": {},
-    "Behera2026mmlmathxmlnsmml": {
-      "Das2026Codesequippedwith": 0.29767441860465116,
-      "Lee2026Fastautoregressive": 0.22857142857142856,
-      "Djuki2026Interpolationofmm": 0.3282051282051282
-    },
+    "Behera2026mmlmathxmlnsmml": {},
     "Hou2026Inverseiterationfo": {},
     "Mao2026Anadaptivefinitee": {},
     "Hegarty2026Afittedfiniteelem": {},
     "Ding2026Secondorderuncondi": {},
     "Choi2026Analyticapproximati": {},
-    "Achabbak2026Afractionalpartiti": {},
+    "Achabbak2026Afractionalpartiti": {
+      "Mohapatra2026Anonconformingtem": 0.22857142857142856
+    },
     "Yu2026Tensorneuralnetwor": {},
     "Leung2026Investigatingtheim": {},
     "Luo2026Developmentandvali": {},
     "Wicaksono2026Fromtextunderstand": {},
     "Zhou2026Largerspacedoesno": {},
     "Mansour2026Exploringtheimpact": {
-      "Ma2026Theimpactofteache": 0.22857142857142856,
-      "Cao2025Predictionandoptim": 0.2916666666666667
+      "Jia2025Theglobaldigitalc": 0.2857142857142857,
+      "Alqarni2025NetworkDynamicsand": 0.30434782608695654
     },
     "Arshad2026Exploringtimecompl": {},
     "Luo2026Anewspaceguidedd": {},
     "Donnat2026Denoisingovernetwo": {},
     "Chen2026Modelingthedynamic": {},
-    "Aashish2026Ageneticalgorithm": {},
+    "Aashish2026Ageneticalgorithm": {
+      "Ammari2023AComputationalGeom": 0.25
+    },
     "Li2026Shapingmakereducat": {},
     "Wendling2026Gammaapproximation": {},
     "MedinaNieto2026Trichomonasvaginali": {},
@@ -23662,16 +23627,15 @@
     "Ouchaoui2026Computationaldiscov": {},
     "Nizamuddin2026Synthesisstructura": {},
     "PALA2026XPGCNExtremelear": {},
-    "Dey2026Classicalandobject": {
-      "Wang2026Themmlmathxmlns": 0.24406779661016953,
-      "Lee2026Fastautoregressive": 0.23076923076923075
-    },
+    "Dey2026Classicalandobject": {},
     "Chen2026Asymptoticanalysis": {},
     "Muhsinah2026Ethyl4methyl2ph": {},
     "Collins2026Optimalcontrolstra": {},
     "Alawad2026EnsembleRegNetInte": {},
     "Raslan2026Prognosismodelsfor": {},
-    "Cao2026CoaltarphenolicDE": {},
+    "Cao2026CoaltarphenolicDE": {
+      "Ermakova2026Molecularstructure": 0.2
+    },
     "Braun2026Threedimensionalca": {},
     "Jiang2026Efficientstochastic": {},
     "Albishri2026Exploringtheantiox": {},
@@ -23682,13 +23646,12 @@
     "MaruiPaloka2026Correctorsfortheb": {},
     "Kim2026Finitedifferenceti": {},
     "Moazami2026Hybridradialkernel": {},
-    "Kapl2026Ammlmathxmlnsmm": {
-      "Wang2026Phasetransitionin": 0.2064516129032258,
-      "DellAccio2026mmlmathxmlnsmml": 0.31666666666666665
-    },
+    "Kapl2026Ammlmathxmlnsmm": {},
     "Kong2026Generalizedcomposit": {},
     "Archana2026Crystaldesignandc": {},
-    "Arango2026Insilicoevaluation": {},
+    "Arango2026Insilicoevaluation": {
+      "Amin2026Insilicoidentifica": 0.20869565217391306
+    },
     "R2026Novelpyridineand1": {},
     "Ghabi2026Understandingthenu": {},
     "Ji2026Comprehensivemulti": {},
@@ -23719,19 +23682,17 @@
     "Mihajlovi2026Designandevaluatio": {},
     "Barrios2026Afiniteelementdis": {},
     "Alipour2026Optimalcontrolgove": {},
-    "Ermakova2026Molecularstructure": {},
+    "Ermakova2026Molecularstructure": {
+      "Cao2026CoaltarphenolicDE": 0.2
+    },
     "Liu2026Adaptivevsplanned": {},
     "Duman2026Improvedapproximati": {},
     "Kim2026Kerneldensityestim": {},
     "Habli2026Computationalanalys": {},
-    "Ding2026Thelargetimestep": {
-      "Li2026Temporalerroranaly": 0.22400000000000003
-    },
+    "Ding2026Thelargetimestep": {},
     "Alazemi2026Anoveloptionprici": {},
     "Subalakshmi2026Machinelearningapp": {},
-    "Zhu2026PhysicsSolverTrans": {
-      "Wang2026Adeepneuralnetwor": 0.2782608695652174
-    },
+    "Zhu2026PhysicsSolverTrans": {},
     "Gaur2026Identificationofsu": {},
     "He2026Microbiometranscrip": {},
     "Wang2026Exploringpotential": {},
@@ -23750,9 +23711,11 @@
     "Yogitha2026Fortifiedtofuredb": {},
     "Wang2026scREPAPredictings": {},
     "Naseem2026Ahighefficiencyfo": {
-      "Nwaigwe2026Efficienthighorder": 0.21052631578947367
+      "Gerberding2026AhighorderIMEXme": 0.25263157894736843
     },
-    "Amin2026Insilicoidentifica": {},
+    "Amin2026Insilicoidentifica": {
+      "Arango2026Insilicoevaluation": 0.20869565217391306
+    },
     "Podleny2026Interpretingaqueous": {},
     "Ai2026Riemannianconjugate": {},
     "Xie2026Uncoveringthethera": {},
@@ -23780,9 +23743,7 @@
     "Hong2026Uncoveringnovelpro": {},
     "Cheng2026TKDDIAccurateand": {},
     "Salba2026Carbonnanoconeoxid": {},
-    "Wang2026Themmlmathxmlns": {
-      "Dey2026Classicalandobject": 0.24406779661016953
-    },
+    "Wang2026Themmlmathxmlns": {},
     "Asra2026Methyl27hydroxy": {},
     "Soltani2026Integrativemultiom": {},
     "Jha2026Developmentandvali": {},
@@ -23796,21 +23757,20 @@
     "Khan2026AIfragmentbasedop": {},
     "Awais2026Numericalapproximat": {},
     "Zhao2026Thermalanalysisof": {},
-    "Huang2026Researchondefectd": {
-      "Lv2025Researchonrealtim": 0.25
-    },
+    "Huang2026Researchondefectd": {},
     "Yang2026Temporalsplittingw": {},
     "KV2026MediFloraNetQuant": {},
     "Sis2026Comprehensiveclosed": {},
-    "ALKAN2026Thenumericalanalys": {},
+    "ALKAN2026Thenumericalanalys": {
+      "Evirgen2026Mathematicalanalysi": 0.2
+    },
     "Chagaleti2026Noninvasivebreast": {},
     "Mahapatra2026Discoveryofbiselyn": {},
     "Meng2026Therelationshipbet": {},
     "Wu2026FEMimplicitexplici": {},
     "He2026Anewapproachtoov": {},
     "Guo2025Researchonconstruc": {
-      "Liu2025Designofnetworkac": 0.20869565217391306,
-      "Shen2025Researchonsynchron": 0.2
+      "Min2025Optimizationofpref": 0.21818181818181817
     },
     "Tan2025Researchonthecons": {},
     "Aytug2025GetThoseGlobalExp": {},
@@ -23818,99 +23778,93 @@
     "Keramat2025Assessmentofreside": {},
     "Alnaimat2025Teachingmethodology": {},
     "Zeng2025Lightweightdeeplea": {},
-    "Zhu2025AIpoweredfeedback": {
-      "Wang2025Optimizingfeedback": 0.26666666666666666
-    },
+    "Zhu2025AIpoweredfeedback": {},
     "Huang2025Metalearningoptimi": {},
     "Liang2025Widebanddigitalpre": {},
     "Zhu2025Assessingtourismef": {},
-    "Dai2025Researchontheappl": {},
-    "Wang2025Researchontheinfl": {},
+    "Dai2025Researchontheappl": {
+      "Hua2025Deeplearninginphy": 0.2
+    },
+    "Wang2025Researchontheinfl": {
+      "Li2025Researchonoptimal": 0.20869565217391306
+    },
     "Liu2025Optimizinglaborator": {},
     "Luo2025Reinforcementlearni": {},
     "Nie2025Dynamicoptimization": {
-      "Zhang2025Dynamicmodelingand": 0.22857142857142856
+      "Cao2025Predictionandoptim": 0.2545454545454546,
+      "Chen2025Optimizationoftenn": 0.26666666666666666
     },
     "Gustafson2025ClarifyingHumanFac": {},
     "Gong2025Multisensordatafu": {},
     "Zhao2025Topologyoptimizedt": {},
     "Zhao2025Researchonthegeos": {},
     "Lu2025Researchontheopti": {
-      "Cao2025Innovationandentre": 0.2545454545454546
+      "Liu2025Researchononlinep": 0.22400000000000003
     },
     "Feng2025Keyinformationretr": {},
-    "Ma2025Researchonconstruc": {
-      "Tao2025Designandapplicati": 0.26666666666666666,
-      "Xia2025Designandapplicati": 0.25263157894736843
-    },
+    "Ma2025Researchonconstruc": {},
     "Wu2025Quantitativedetermi": {},
     "Li2025Researchonintellig": {},
     "Lv2025Researchonrealtim": {
-      "Kuang2025Automatedoptimizati": 0.20869565217391306,
-      "Xu2025Assessmentandenhan": 0.22400000000000003
+      "Zhong2025Evaluationandoptim": 0.2
     },
     "Yuan2025Transmissionlineic": {},
-    "Song2025Optimizationofente": {
-      "Yang2025Optimizationofente": 0.21052631578947367
-    },
+    "Song2025Optimizationofente": {},
     "Zhu2025STAFNetAspatiot": {},
     "Zhang2025Amultimodalsemanti": {},
     "Zhou2025Energymanagementme": {},
     "Liu2025Generativeadversari": {},
     "Motukeeva2025AnalysisoftheFeat": {},
     "Wei2025Bigdatasentimenta": {
-      "Hu2025Constructionandapp": 0.22857142857142856,
-      "Wang2025Thedesignandimple": 0.21818181818181817,
-      "He2025Researchonoptimiza": 0.3272727272727273,
-      "Wang2025OptimizationofEngl": 0.27999999999999997
+      "Lin2025Emotionaltendencya": 0.2,
+      "Zou2025Featureextractiona": 0.21818181818181817,
+      "Liu2025Constructionofuniv": 0.2545454545454546
     },
     "Liu2025Amultisourceheter": {},
     "Korlipara2025iGettingtotheRo": {},
-    "Liu2025Intelligentdetectio": {},
+    "Liu2025Intelligentdetectio": {
+      "Zhang2025Autismemotionrecog": 0.25263157894736843
+    },
     "Tariq2025UserExperienceMeas": {},
     "Wu2025Applicationandprac": {
-      "Zhang2025Artificialneuralne": 0.2,
-      "Wu2025Theapplicationofa": 0.32000000000000006,
-      "Zhang2025Researchontheappl": 0.21052631578947367,
-      "Pei2025Developmentandappl": 0.25,
-      "Dong2025Artificialintellige": 0.28571428571428575,
-      "Li2025Applicationofartif": 0.49230769230769234
+      "Xu2025Applicationofartif": 0.23529411764705885,
+      "Lai2025Applicationofartif": 0.32000000000000006,
+      "Dong2025Artificialintellige": 0.28571428571428575
     },
     "Tong2025Deeplearningbased": {},
     "Wang2025Adecadeofhealthy": {},
     "Beheshti2025ViscoelasticComputa": {},
     "Han2025Designandimplement": {},
     "Zhang2025Autismemotionrecog": {
-      "Gao2025Loadforecastingmet": 0.25,
-      "Zhou2025Thefeaturedeepfus": 0.4,
-      "Zhao2025Constructionoftrad": 0.21818181818181817
+      "Zhang2025Agamblingwebsitei": 0.2,
+      "Liu2025Intelligentdetectio": 0.25263157894736843
     },
     "Narla2025Computationalintell": {},
     "Xiao2025Tablestructurereco": {},
     "Wang2025Ameasurementaccura": {},
     "Chen2025Aleaderfollowerga": {},
-    "Guo2025TheapplicationofS": {
-      "Huang2025Theapplicationand": 0.21052631578947367
-    },
+    "Guo2025TheapplicationofS": {},
     "Miao2025Astandardizedsmall": {},
     "Miao2025Humanactionrecogni": {},
     "Mena2025Mechanicalconsequen": {},
-    "Peng2025Realtimetraveling": {},
+    "Peng2025Realtimetraveling": {
+      "Jiang2025Constructionandapp": 0.2
+    },
     "Guo2025Practiceandreflect": {},
     "Zhao2025Transportationplann": {},
     "An2025Designandimplement": {
-      "Liu2025Visualanalysisand": 0.2
+      "Qiu2025Constructionandapp": 0.23529411764705885
     },
     "Liu2025CrossborderEnglish": {},
     "Li2025Researchonoptimal": {
-      "Zheng2025Researchonautomati": 0.24347826086956526
+      "Lan2025Theinnovationofcu": 0.22857142857142856,
+      "Wang2025Researchontheinfl": 0.20869565217391306,
+      "Du2025Researchonsentimen": 0.21818181818181817
     },
-    "Shen2025Researchonsynchron": {
-      "Zhang2025Researchonsimulati": 0.20869565217391306,
-      "Guo2025Researchonconstruc": 0.2
-    },
+    "Shen2025Researchonsynchron": {},
     "Liu2025Researchonemotion": {
-      "Jiao2025Researchonarchitec": 0.2
+      "Liu2025Researchonautomati": 0.23333333333333336,
+      "Zhang2025Applicationresearch": 0.22400000000000003
     },
     "Wang2025Adualchannelconve": {},
     "Liu2025Miningpersonalized": {},
@@ -23918,38 +23872,38 @@
     "Li2025Intelligentdigital": {},
     "Savransky2025InterstitialPolitic": {},
     "Zhong2025Evaluationandoptim": {
-      "Ye2025Optimizationstrateg": 0.25,
-      "Li2025Applicationandimpr": 0.2545454545454546,
-      "Li2025Intelligentmanageme": 0.2
+      "Bai2025Constructionofinfo": 0.22222222222222224,
+      "Liu2025ConstructionofEngl": 0.23529411764705885,
+      "Lv2025Researchonrealtim": 0.2,
+      "Qiu2025Constructionandapp": 0.2
     },
     "Cao2025Predictionandoptim": {
-      "Liu2025Researchonsemantic": 0.20869565217391306,
-      "Wang2025Researchonforeste": 0.22400000000000003,
-      "Xie2025Digitalprotectiona": 0.23333333333333336
+      "Nie2025Dynamicoptimization": 0.2545454545454546
     },
     "Li2025HybridRMSPropLooka": {},
     "Gao2025Designandresearch": {
-      "Shen2025Performanceoptimiza": 0.24615384615384617,
-      "Hu2025Designofexothermic": 0.22400000000000003
+      "Shi2025Researchonintellig": 0.2206896551724138,
+      "Pu2025Designofsmartelde": 0.2153846153846154
     },
-    "Yu2025Applicationandopti": {
-      "Liu2025Visualanalysisand": 0.2
-    },
+    "Yu2025Applicationandopti": {},
     "Li2025Astudyontheimpro": {},
     "Liu2025Researchonthecalc": {},
     "Dadich2025ThinkingandCaring": {},
     "Schiavio2025AnExploratoryAnaly": {},
     "Dong2025Constructionofmode": {
-      "Bai2025Characteristicsanal": 0.26666666666666666
+      "Cheng2025DilemmaofcollegeE": 0.2074074074074074
     },
     "Hua2025Deeplearninginphy": {
-      "Xu2025Emotionclassificati": 0.2
+      "Lin2025Emotionaltendencya": 0.20869565217391306,
+      "Dai2025Researchontheappl": 0.2,
+      "Wang2025Studyontheeffect": 0.22400000000000003,
+      "Wang2025Thedesignandimple": 0.22857142857142856
     },
-    "Li2025Exploringthereleva": {},
+    "Li2025Exploringthereleva": {
+      "Li2025Developmentstrategy": 0.24347826086956526
+    },
     "Farhadi2025IntegrativeComputat": {},
-    "Fan2025Researchonintellig": {
-      "Yang2025Vulnerabilityevalua": 0.2074074074074074
-    },
+    "Fan2025Researchonintellig": {},
     "Martins2025Comparativeanalysis": {},
     "Wu2025Computedtomography": {},
     "Metwaly2025Computeraideddrug": {},
@@ -23961,35 +23915,30 @@
     "Wu2025Designqualitymanag": {},
     "Zhijun2025Integratinglowcarb": {},
     "Li2025Designofonlinetea": {
-      "Zheng2025Dynamicinteraction": 0.20869565217391306,
-      "Hu2025Designofexothermic": 0.2,
-      "Xia2025Designandapplicati": 0.2,
-      "Liu2025Optimizationandcom": 0.26666666666666666,
-      "Zheng2025Robusttechnologyof": 0.21052631578947367
+      "Li2025Seismicdesignmetho": 0.2,
+      "Wang2025Designofautonomous": 0.25263157894736843,
+      "Xu2025Emotionclassificati": 0.21052631578947367
     },
     "Dartey2025LanguagesAreNotth": {},
     "Yang2025Digitallandscapear": {},
     "Cao2025Cantaxauthorities": {},
     "Polat2025Onthemachinelearn": {},
-    "Gao2025ExplorationofEngli": {
-      "Zhang2025Developmentofeduca": 0.22857142857142856,
-      "Yuan2025Ethicalandlegalis": 0.28235294117647064
-    },
+    "Gao2025ExplorationofEngli": {},
     "Mao2025Artificialintellige": {},
     "Ni2025Intelligenttourism": {
-      "Nie2025MapReducebaseddata": 0.22857142857142856
+      "Duan2025Intelligentplanning": 0.2
     },
-    "Fan2025Astudyonthedrivi": {
-      "Feng2025Impactofeconomicp": 0.2
-    },
+    "Fan2025Astudyonthedrivi": {},
     "Liu2025ACCSAnindoorloca": {},
     "Rojas2025InfrastructuringCar": {},
     "Li2025Researchprogresson": {},
     "Pei2025Researchonintellig": {},
-    "Ma2025Selectionandevalua": {},
+    "Ma2025Selectionandevalua": {
+      "Qian2025Qualityevaluationm": 0.24
+    },
     "Xu2025Theconstructionand": {
-      "Bai2025Constructionofinfo": 0.25263157894736843,
-      "Cong2025Visualmodelconstru": 0.20869565217391306
+      "Shen2025Missingdatafilling": 0.20869565217391306,
+      "Ye2025Educationalapplicat": 0.21818181818181817
     },
     "Wu2025Applicationstudyof": {},
     "Wang2025Investigationonthe": {},
@@ -23999,257 +23948,227 @@
     "Lai2025Constructionofagri": {},
     "Sun2025Multilingualsocial": {},
     "McCarley2025AComputationalCogn": {
-      "Williams2023AComputationalMode": 0.26666666666666666,
-      "Liu2024PerceptualQualityA": 0.26666666666666666
+      "Williams2023AComputationalMode": 0.26666666666666666
     },
-    "Xu2025Explorationofdigit": {
-      "Xie2025Digitalprotectiona": 0.2,
-      "Meng2025Researchonadaptive": 0.2571428571428572
-    },
+    "Xu2025Explorationofdigit": {},
     "Zhao2025Constructionoftrad": {
       "Li2025Optimizationofstud": 0.2,
-      "Zhang2025Autismemotionrecog": 0.21818181818181817
+      "Zhuo2025Constructionofdata": 0.2
     },
     "Liu2025Behavioranalysisan": {
-      "Zhang2025Anempiricalanalysi": 0.2153846153846154,
-      "Bai2025Characteristicsanal": 0.2571428571428572
+      "Yu2025Intelligentanalysis": 0.2,
+      "Liu2025Visualanalysisand": 0.20869565217391306,
+      "Li2025Theroleofruralsp": 0.2
     },
     "Fu2025Developmentandappl": {},
     "Guan2025Transformationanda": {
-      "Huang2025Theapplicationand": 0.22222222222222224
+      "Cao2025Researchontheappl": 0.24,
+      "Wu2025Theapplicationofa": 0.26666666666666666
     },
-    "Yang2025Effectivenessofcom": {
-      "Deng2025Theworkanalysisof": 0.22222222222222224
-    },
+    "Yang2025Effectivenessofcom": {},
     "Wang2025Constructionenginee": {},
     "Zhu2025Theroleandprospec": {
-      "Li2025Applicationofartif": 0.22222222222222224
+      "Li2025Developmentstrategy": 0.2
     },
     "Zhang2025Developmentandappl": {
-      "Liu2025Researchonthecons": 0.20869565217391306,
-      "Yang2025Researchonundergro": 0.20869565217391306
+      "Hu2025Constructionandapp": 0.29473684210526313,
+      "Jiang2025Constructionandapp": 0.35555555555555557
     },
-    "Zhi2025Universityfinancial": {
-      "Tu2025Enterprisefinancial": 0.2
-    },
+    "Zhi2025Universityfinancial": {},
     "Li2025Researchonblockcha": {},
-    "Zhang2025Theapplicationand": {},
-    "Zhang2025Edgedevicecomputin": {
-      "Chang2025Commoditypackaging": 0.2
+    "Zhang2025Theapplicationand": {
+      "Li2025Comprehensivefuzzy": 0.20869565217391306,
+      "Shi2025AItechnologyinthe": 0.2545454545454546
     },
+    "Zhang2025Edgedevicecomputin": {},
     "Ji2025Studyonpracticale": {},
-    "Bai2025Characteristicsanal": {
-      "He2025Researchonoptimiza": 0.2,
-      "Dong2025Constructionofmode": 0.26666666666666666,
-      "Liu2025Behavioranalysisan": 0.2571428571428572
-    },
+    "Bai2025Characteristicsanal": {},
     "Cao2025Assistedtrainingof": {},
     "Song2025Assessmentofwheat": {},
     "Ying2025Distributedadaptive": {},
     "Cheng2025DilemmaofcollegeE": {
-      "Zhao2025Trendandfuturepro": 0.25263157894736843,
-      "Sun2025Evaluationoftraini": 0.21818181818181817,
-      "Liu2025Constructionofuniv": 0.22857142857142856,
-      "Guo2025Musiccultureinheri": 0.22857142857142856
+      "Bai2025Constructionofinfo": 0.21052631578947367,
+      "Dong2025Constructionofmode": 0.2074074074074074
     },
     "Arkin2025Phonemeconfusionmo": {
-      "Meng2025Researchonadaptive": 0.20869565217391306
+      "Ji2025Researchonthedisc": 0.21052631578947367
     },
     "Xia2025TheapplicationofS": {},
     "Xue2025Theimpactofcolleg": {},
     "Jiang2025Constructionandapp": {
-      "Yang2025Automatedconstructi": 0.2
+      "Peng2025Realtimetraveling": 0.2,
+      "Zhang2025Developmentandappl": 0.35555555555555557
     },
     "Sheng2025V2Gauthenticationa": {},
-    "Liu2025Optimizinggridresi": {
-      "Fu2025Advancementsindigi": 0.22857142857142856
-    },
+    "Liu2025Optimizinggridresi": {},
     "Wang2025Faultmonitoringand": {},
-    "Xie2025Enterpriseaccountin": {},
+    "Xie2025Enterpriseaccountin": {
+      "Cheng2025Bigdataanalysisin": 0.21052631578947367,
+      "Li2025Intelligentmanageme": 0.23529411764705885
+    },
     "Liu2025ApplicationofIoTb": {},
     "Yi2025Localglobalattenti": {},
     "Feng2025Activationofdopami": {},
     "Xu2025Innovativemethodof": {},
-    "Zhang2025Developmentofeduca": {
-      "Gao2025ExplorationofEngli": 0.22857142857142856
-    },
+    "Zhang2025Developmentofeduca": {},
     "Li2025Seismicdesignmetho": {
-      "Liu2025Curriculumdesignme": 0.21052631578947367
+      "Li2025Designofonlinetea": 0.2
     },
     "Li2025Navigatingcyberspac": {},
     "Hu2025Dynamicdatamanagem": {},
     "Shi2025Researchonnursing": {},
     "Liu2025Researchonautomati": {
-      "Liu2025Researchonsemantic": 0.23333333333333336
+      "Liu2025Researchonemotion": 0.23333333333333336
     },
-    "Ni2025Applicationresearch": {
-      "Zheng2025Controlschemeofgr": 0.2
-    },
+    "Ni2025Applicationresearch": {},
     "Jiang2025Researchonenterpri": {},
     "Wan2025Constructionofinte": {},
-    "Chen2025Studyonthestructu": {},
+    "Chen2025Studyonthestructu": {
+      "Dai2025Studyontheregulat": 0.22400000000000003
+    },
     "Mou2025Photovoltaicoutput": {},
     "Hu2025Constructionandapp": {
-      "Tang2025CollegeEnglishclas": 0.26666666666666666,
-      "Wei2025Bigdatasentimenta": 0.22857142857142856,
-      "Meng2025Researchonadaptive": 0.20869565217391306,
-      "Ye2025Educationalapplicat": 0.24,
-      "Li2025Intelligentmanageme": 0.2
+      "Lin2025Cultivationofinnov": 0.21052631578947367,
+      "Bai2025Constructionofinfo": 0.28235294117647064,
+      "Zhang2025Developmentandappl": 0.29473684210526313,
+      "Yang2025Automatedconstructi": 0.2,
+      "Xia2025Designandapplicati": 0.26666666666666666
     },
     "Liu2025Optimizationandcom": {
-      "Hu2025Designofasecuree": 0.2,
-      "Gao2025Designandperforman": 0.20869565217391306,
-      "Li2025Designofonlinetea": 0.26666666666666666
+      "Li2025Situationalteaching": 0.21818181818181817
     },
-    "Long2025Researchonbusiness": {},
+    "Long2025Researchonbusiness": {
+      "Liu2025Constructionofuniv": 0.21818181818181817,
+      "Jin2025Researchonmultimod": 0.22222222222222224
+    },
     "Jin2025Advancementsininte": {},
     "Liu2025Aninterpretableana": {},
     "Fan2025Applicationresearch": {},
     "Li2025Studyonacousticem": {},
     "Xia2025Designandapplicati": {
-      "Li2025Designofonlinetea": 0.2,
-      "Hu2025Designofasecuree": 0.22857142857142856,
-      "Zhan2025Designandapplicati": 0.2,
-      "Ma2025Researchonconstruc": 0.25263157894736843
+      "Liu2025Intelligentdesignm": 0.2,
+      "Hu2025Constructionandapp": 0.26666666666666666
     },
     "Kong2025Designandapplicati": {},
     "Liu2025Researchononlinep": {
-      "Wei2025Evaluationanalysis": 0.24
+      "Lu2025Researchontheopti": 0.22400000000000003
     },
     "Wang2025Factorsaffectingne": {},
-    "Zhang2025Naturallanguagepro": {
-      "Dong2025Artificialintellige": 0.21052631578947367,
-      "Bai2025Artificialintellige": 0.22222222222222224
-    },
+    "Zhang2025Naturallanguagepro": {},
     "Mulupi2025GoldenGirlsNation": {},
     "Chen2025CombiningGCNwitha": {},
     "Xie2025Libraryresourcerec": {},
     "Zhang2025Researchonsimulati": {
-      "Shen2025Researchonsynchron": 0.20869565217391306
+      "Qian2025Qualityevaluationm": 0.20869565217391306
     },
     "Han2025Interiorwallfinish": {},
-    "Zhang2025Technologyandimple": {
-      "Zheng2025Robusttechnologyof": 0.21818181818181817
-    },
+    "Zhang2025Technologyandimple": {},
     "Ma2025Genephenotypetenso": {},
-    "Zhang2025Deeplearningbased": {
-      "Zhang2025Dynamicposerecogni": 0.2
-    },
+    "Zhang2025Deeplearningbased": {},
     "Zhao2025Distributedbottlene": {},
     "Chen2025Theapplicationofc": {
-      "Li2025Theapplicationofd": 0.2,
-      "Xu2025Applicationofartif": 0.22857142857142856
+      "Wu2025Theapplicationofa": 0.24
     },
     "Tan2025Enhancedgeneticalg": {},
     "Li2025FermateanfuzzyAIb": {},
     "Fan2025Edgecomputingtask": {},
     "Pang2025Facerecognitioncom": {},
-    "Qi2025Theroleofsmartco": {},
+    "Qi2025Theroleofsmartco": {
+      "Du2025Studyonspatialopt": 0.2,
+      "Li2025Theroleofruralsp": 0.2074074074074074,
+      "Li2025Theapplicationofd": 0.21818181818181817
+    },
     "Wang2025Advancementsinaugm": {},
     "Ji2025Theevaluationofte": {
       "Lin2025Sentimentanalysisa": 0.2,
-      "Liu2025StudyonEnglishlea": 0.2
+      "Zhang2025Dynamicmodelingand": 0.22400000000000003
     },
     "Yu2025Cancercellsmearim": {},
     "Li2025Applicationandimpr": {
-      "Zhong2025Evaluationandoptim": 0.2545454545454546,
+      "Shi2025Applicationofblock": 0.2,
       "He2025Researchonoptimiza": 0.2153846153846154
     },
     "Tian2025Artificialintellige": {},
     "Ogaz2025Thinkingbeyondthe": {},
     "Berthelsen2025UsingDesignThinkin": {},
-    "Li2025Situationalteaching": {},
-    "Wei2025Evaluationanalysis": {
-      "Liu2025Researchononlinep": 0.24,
-      "Wang2025Studyontheeffect": 0.20869565217391306,
-      "Xie2025Individualizedcolle": 0.21333333333333335,
-      "Liu2025Constructionofuniv": 0.2,
-      "Wu2025Theconstructionof": 0.2,
-      "Yi2025Analysisofstudents": 0.22222222222222224,
-      "Yang2025Designandcategory": 0.2,
-      "Guo2025SimulationofChines": 0.20869565217391306,
-      "Li2025Pathoptimizationde": 0.21052631578947367
+    "Li2025Situationalteaching": {
+      "Bao2025Innovativeapplicati": 0.20869565217391306,
+      "Liu2025Optimizationandcom": 0.21818181818181817
     },
+    "Wei2025Evaluationanalysis": {},
     "Lan2025Theinnovationofcu": {
+      "Li2025Researchonoptimal": 0.22857142857142856,
       "Wang2025Designofautonomous": 0.21052631578947367,
-      "Pei2025Developmentandappl": 0.21052631578947367
+      "Du2025Optimizingthevisua": 0.20869565217391306,
+      "Zhang2025Anempiricalanalysi": 0.22857142857142856,
+      "Liu2025Intelligentdesignm": 0.2
     },
     "Luo2025Therelationshipbet": {},
     "Im2025TowardH": {},
-    "Zhang2025Applicationresearch": {},
+    "Zhang2025Applicationresearch": {
+      "Wang2025Applicationofdeep": 0.2153846153846154,
+      "Liu2025Researchonthecons": 0.2074074074074074,
+      "Liu2025Researchonemotion": 0.22400000000000003
+    },
     "Zhang2025Anempiricalanalysi": {
-      "Liu2025Behavioranalysisan": 0.2153846153846154
+      "Cao2025Innovationandentre": 0.22857142857142856,
+      "Lan2025Theinnovationofcu": 0.22857142857142856
     },
-    "Wang2025Imagefusionbaseds": {
-      "Fan2025Remotesensingimage": 0.26666666666666666
-    },
+    "Wang2025Imagefusionbaseds": {},
     "Chen2025Artificialintellige": {},
     "Wang2025Danceactionrecogni": {
-      "Zhou2025Improvingstudents": 0.22857142857142856,
-      "Yang2025Shortvideocontent": 0.22857142857142856,
-      "Zhang2025Dynamicposerecogni": 0.23529411764705885
+      "Tian2025Actionrecognitiont": 0.23529411764705885
     },
     "Chen2025Developmentpathof": {},
     "Helbling2025ZeroSumThinkingan": {},
     "Zhang2025Financialdataintel": {},
     "Sreenivasulu2025Computationalstudy": {},
     "Tang2025CollegeEnglishclas": {
-      "Hu2025Constructionandapp": 0.26666666666666666,
-      "He2025Personalizedteachin": 0.29473684210526313
+      "Cheng2025Bigdataanalysisin": 0.27999999999999997
     },
     "Yi2025Researchonpredicti": {
-      "Meng2025Researchonadaptive": 0.2782608695652174
+      "Wang2025ImpactofWIFIonc": 0.27999999999999997
     },
     "Xie2025Individualizedcolle": {
-      "Wei2025Evaluationanalysis": 0.21333333333333335
+      "Cheng2025Bigdataanalysisin": 0.22222222222222224
     },
-    "Liu2025Curriculumdesignme": {
-      "Li2025Seismicdesignmetho": 0.21052631578947367,
-      "Hu2025Amethodforimprovi": 0.21052631578947367
-    },
-    "Guo2025SimulationofChines": {
-      "Wei2025Evaluationanalysis": 0.20869565217391306
-    },
+    "Liu2025Curriculumdesignme": {},
+    "Guo2025SimulationofChines": {},
     "Liang2025Anempiricalstudyo": {},
     "Wu2025Astudyofhealthma": {},
     "Wang2025HowTeacherRelated": {},
     "Cui2025Realtimerobustness": {},
     "Motlagh2025TheAmbassadorofDe": {},
-    "Xu2025Assessmentandenhan": {
-      "Liu2025Researchonthecons": 0.20869565217391306,
-      "Guo2025Musiccultureinheri": 0.26666666666666666,
-      "Zhao2025Trendandfuturepro": 0.24,
-      "Lv2025Researchonrealtim": 0.22400000000000003
-    },
+    "Xu2025Assessmentandenhan": {},
     "Hu2025Applicationandimpr": {
-      "Pu2025Designofsmartelde": 0.2
+      "Tang2025IntelligentEnglish": 0.2
     },
     "Sun2025Surfacesubsidencec": {},
     "Hu2025Amethodforimprovi": {
-      "Liu2025Curriculumdesignme": 0.21052631578947367
+      "Zhao2025AstudyonAntColon": 0.21818181818181817
     },
     "Zhang2025Applicationofstati": {},
     "Zhang2025Constructionofacr": {
-      "Yang2025Automatedconstructi": 0.21052631578947367
+      "Bai2025Constructionofinfo": 0.23529411764705885
     },
     "Pei2025Developmentandappl": {
-      "Wu2025Applicationandprac": 0.25,
-      "Lan2025Theinnovationofcu": 0.21052631578947367
+      "Du2025Studyonspatialopt": 0.2,
+      "Sun2025Designanddevelopme": 0.2
     },
     "Deng2025Challengesandappli": {},
     "Suay2025AyahuascainspiredD": {},
     "Sun2025Intervalnumbermult": {},
     "Cheng2025Practiceandapplica": {},
     "Li2025Exploringtheinflue": {},
-    "Liang2025Intelligentlibrary": {},
+    "Liang2025Intelligentlibrary": {
+      "Luo2025Ecommercevertical": 0.22857142857142856
+    },
     "Yi2025Analysisandmodelin": {},
     "Zhou2025Explorethenewmode": {
-      "Yuan2025Ethicalandlegalis": 0.23529411764705885
+      "Liu2025Intelligentdesignm": 0.2
     },
     "Sun2025Evaluationoftraini": {
-      "He2025Researchonoptimiza": 0.23333333333333336,
-      "Cheng2025DilemmaofcollegeE": 0.21818181818181817,
-      "Qian2025Qualityevaluationm": 0.20869565217391306
+      "Meng2025Researchonadaptive": 0.22400000000000003
     },
     "Parr2025Thinkingwiththefo": {},
     "Gao2025Footballactionreco": {},
@@ -24258,102 +24177,82 @@
     "Sun2025Mechanicalspecific": {},
     "Zhou2025Fromhighertolower": {},
     "Manoudaki2025Digitalmorphogenesi": {
-      "Yan2022AComputationalFram": 0.3333333333333333
+      "Piovarci2023SkinScreenACompu": 0.25
     },
     "Tan2025Researchonjointid": {},
-    "Zhou2025Thefeaturedeepfus": {
-      "Xing2025Intelligenttransfor": 0.2,
-      "Zhang2025Autismemotionrecog": 0.4,
-      "Gao2025Loadforecastingmet": 0.25
-    },
+    "Zhou2025Thefeaturedeepfus": {},
     "Wu2025FRISFormerAneffic": {},
-    "Meng2025Researchonprivacy": {
-      "Duan2025Intelligentplanning": 0.2
-    },
+    "Meng2025Researchonprivacy": {},
     "Ye2025Educationalapplicat": {
-      "Zhao2025Enterprisereformon": 0.2,
-      "Hu2025Constructionandapp": 0.24
+      "He2025Researchonoptimiza": 0.24347826086956526,
+      "Xu2025Theconstructionand": 0.21818181818181817,
+      "Bai2025Constructionofinfo": 0.2
     },
-    "Jia2025Thestructuraldetec": {
-      "Zou2025Featureextractiona": 0.2
-    },
+    "Jia2025Thestructuraldetec": {},
     "Jian2025Nonequidistantgrey": {},
     "Huang2025Researchonelectrom": {},
     "Liu2025Comparativeanalysis": {},
-    "Zhao2025AstudyonAntColon": {},
-    "Zhao2025Enterprisereformon": {
-      "Ye2025Educationalapplicat": 0.2
+    "Zhao2025AstudyonAntColon": {
+      "Hu2025Amethodforimprovi": 0.21818181818181817
     },
+    "Zhao2025Enterprisereformon": {},
     "Li2025Analysisofurbanan": {},
     "Dessie2025EFLinstructorscri": {},
     "Li2025Measuringtheimpact": {},
-    "Li2025Aredcultureconten": {
-      "Yang2025Shortvideocontent": 0.23529411764705885,
-      "Yang2025ImprovingaVOHEsys": 0.2
-    },
+    "Li2025Aredcultureconten": {},
     "Zhao2025Modelandresearcho": {
-      "Shi2025Designandresearch": 0.24347826086956526,
-      "Zhou2025Modelingandsimulat": 0.2,
-      "Peng2025Constructionprogres": 0.22857142857142856,
-      "Tao2025Designandapplicati": 0.2,
-      "Dukun2025Visualpredictionmo": 0.2,
-      "Wang2025OptimizationofEngl": 0.24
+      "Wang2025Researchonforeste": 0.24347826086956526,
+      "Luo2025Researchonperforma": 0.21818181818181817
     },
     "Guo2025Boundaryelementmet": {},
     "Wang2025Applicationofbigd": {
-      "Wu2025Theapplicationofa": 0.35555555555555557,
-      "Zhang2025Researchontheappl": 0.20869565217391306,
-      "Cao2025Researchontheappl": 0.26666666666666666,
-      "Luo2025Applicationofartif": 0.28235294117647064,
-      "Wang2025Methodsandcontent": 0.23333333333333336
+      "Huang2025Theapplicationand": 0.3111111111111111,
+      "Zhang2025Literarywritingand": 0.25263157894736843
     },
     "Wei2025Abigdatabasedres": {},
-    "Bao2025Innovativeapplicati": {},
+    "Bao2025Innovativeapplicati": {
+      "Zheng2025Researchontheappl": 0.2,
+      "Li2025Situationalteaching": 0.20869565217391306
+    },
     "Huo2025Leveragingneuralne": {},
     "Wang2025Researchonforeste": {
-      "Cao2025Predictionandoptim": 0.22400000000000003
+      "Zhao2025Modelandresearcho": 0.24347826086956526,
+      "Liu2025FPGAaccelerationan": 0.24
     },
     "Shen2025Highperformancepri": {},
     "Yang2025Designandcategory": {
-      "Wu2025Patternrecognition": 0.21818181818181817,
-      "Wei2025Evaluationanalysis": 0.2,
-      "Zhou2025ApplicationofNSGA": 0.20869565217391306
+      "Zhang2025DesignofEnglishte": 0.20869565217391306
     },
     "Song2025Energycollectionan": {},
     "Yang2025TPAnetTemporalpy": {},
     "Daum2025ZygomaticOsteotomy": {},
     "Iskandarani2025AComputationalMult": {},
-    "Liu2025Topologicalfeature": {},
-    "Yuan2025Ethicalandlegalis": {
-      "Bai2025Artificialintellige": 0.21333333333333335,
-      "Li2025Theapplicationofd": 0.25,
-      "Gao2025ExplorationofEngli": 0.28235294117647064,
-      "Liu2025ConstructionofEngl": 0.26666666666666666,
-      "Lai2025Applicationofartif": 0.23529411764705885,
-      "Zhou2025Explorethenewmode": 0.23529411764705885
+    "Liu2025Topologicalfeature": {
+      "Rao2025ConstructionofChin": 0.21818181818181817
     },
-    "Zhang2025Assessmentoftheef": {},
+    "Yuan2025Ethicalandlegalis": {
+      "Xiao2025Innovativeapplicati": 0.25
+    },
+    "Zhang2025Assessmentoftheef": {
+      "Meng2025Researchonadaptive": 0.2
+    },
     "Shi2025Designandresearch": {
-      "Zhao2025Modelandresearcho": 0.24347826086956526,
-      "Shen2025Performanceoptimiza": 0.2,
-      "Gao2025Designofmultipler": 0.2
+      "Pu2025Designofsmartelde": 0.2545454545454546
     },
     "Xiang2025Virtualsimulationo": {},
     "Du2025Studyonspatialopt": {
-      "Li2025Impactofmultimodal": 0.2
+      "Pei2025Developmentandappl": 0.2,
+      "Qi2025Theroleofsmartco": 0.2
     },
     "Xie2025Digitalprotectiona": {
-      "Xu2025Explorationofdigit": 0.2,
-      "Liu2025Constructionofuniv": 0.20869565217391306,
-      "Cao2025Predictionandoptim": 0.23333333333333336
+      "Shen2025Missingdatafilling": 0.2
     },
     "Lin2025FromFamilytoClass": {},
     "Nefes2025TrustandConspirato": {},
     "Xu2025Aninterpretability": {},
     "Ren2025Efficiencyevaluatio": {},
     "Liu2025Designofnetworkac": {
-      "Guo2025Researchonconstruc": 0.20869565217391306,
-      "Yang2025Vulnerabilityevalua": 0.20869565217391306
+      "Wang2025Designofautonomous": 0.2
     },
     "Guo2025Spatiostructuralte": {},
     "Lenters2025StoryingworldsThi": {},
@@ -24363,56 +24262,64 @@
     "Yang2025Objectdetectionin": {},
     "Li2025Crosslingualtextc": {},
     "Qiu2025Constructionandapp": {
-      "Li2025Theapplicationofd": 0.21052631578947367
+      "An2025Designandimplement": 0.23529411764705885,
+      "Zhong2025Evaluationandoptim": 0.2
     },
     "Liao2025Bordertouristflow": {},
     "Xu2025Demandanalysisofi": {},
-    "Wu2025Theconstructionof": {
-      "Wei2025Evaluationanalysis": 0.2
+    "Wu2025Theconstructionof": {},
+    "Li2025Bodyposturerecogni": {},
+    "Ni2025Intelligentclassifi": {
+      "Yue2025Dynamicdemandandi": 0.22857142857142856
     },
-    "Li2025Bodyposturerecogni": {
-      "Chen2025Martialartsaction": 0.21818181818181817
+    "Wang2025ImpactofWIFIonc": {
+      "Yi2025Researchonpredicti": 0.27999999999999997
     },
-    "Ni2025Intelligentclassifi": {},
-    "Wang2025ImpactofWIFIonc": {},
     "Luo2025UPEYOLOv7Arobust": {},
     "Cui2025Consensusmechanism": {},
-    "Cheng2025Bigdataanalysisin": {},
+    "Cheng2025Bigdataanalysisin": {
+      "Tang2025CollegeEnglishclas": 0.27999999999999997,
+      "Xie2025Enterpriseaccountin": 0.21052631578947367,
+      "Xie2025Individualizedcolle": 0.22222222222222224,
+      "Liu2025ConstructionofEngl": 0.2
+    },
     "Rietschel2025Intelligenttoolson": {},
     "Feng2025Constructionandpra": {},
-    "Jiang2025Constructionofcult": {},
+    "Jiang2025Constructionofcult": {
+      "Zhuo2025Constructionofdata": 0.21818181818181817
+    },
     "Wei2025Sustainabledigital": {},
     "Zhang2025AstudyofEnglisht": {},
     "Wang2025Researchonoptimiza": {},
     "Fu2025Advancementsindigi": {
-      "Liu2025Optimizinggridresi": 0.22857142857142856
+      "Ban2025Achievingenhancedg": 0.21818181818181817
     },
     "Liu2025StudyonEnglishlea": {
-      "Ji2025Theevaluationofte": 0.2
+      "Wang2025OptimizationofEngl": 0.32941176470588235,
+      "Meng2025Researchonadaptive": 0.20869565217391306
     },
-    "Dai2025Studyontheregulat": {},
+    "Dai2025Studyontheregulat": {
+      "Chen2025Studyonthestructu": 0.22400000000000003
+    },
     "Liu2025Fieldstudyonther": {},
-    "Ju2025Enhancinguserexper": {
-      "Kang2025Leveragingbigdata": 0.24
-    },
+    "Ju2025Enhancinguserexper": {},
     "Shi2025Researchonintellig": {
-      "Jiang2025Researchonstabilit": 0.26666666666666666
+      "Gao2025Designandresearch": 0.2206896551724138
     },
-    "Guo2025Applicationofbigd": {},
+    "Guo2025Applicationofbigd": {
+      "Wu2025Managementofcross": 0.20869565217391306
+    },
     "Liu2025Researchonthecons": {
-      "Qian2025Developmentandeval": 0.2,
-      "Cao2025Researchontheappl": 0.20869565217391306,
-      "Xu2025Assessmentandenhan": 0.20869565217391306,
-      "Wang2025OptimizationofEngl": 0.22857142857142856,
-      "He2025Personalizedteachin": 0.20869565217391306,
-      "He2025Researchonoptimiza": 0.2782608695652174,
-      "Zhang2025Constructionandopt": 0.22857142857142856,
-      "Zhang2025Developmentandappl": 0.20869565217391306
+      "Xu2025Deeplearningbased": 0.22857142857142856,
+      "Bai2025Constructionofinfo": 0.29473684210526313,
+      "Wang2025Thedesignandimple": 0.26666666666666666,
+      "Zhang2025Applicationresearch": 0.2074074074074074,
+      "Shen2025Performanceoptimiza": 0.20869565217391306,
+      "Zhang2025Explorationandprac": 0.23333333333333336
     },
     "Xu2025Human3Danimationd": {},
     "Zheng2025Researchonautomati": {
-      "Jin2025Applicationofcolor": 0.20869565217391306,
-      "Li2025Researchonoptimal": 0.24347826086956526
+      "Jin2025Applicationofcolor": 0.20869565217391306
     },
     "Zhang2025Mechanismofsustain": {},
     "Shi2025PolicyguidedQlear": {},
@@ -24420,43 +24327,44 @@
     "Sun2025Geospatialanalysis": {},
     "Ma2025Theimpactofinform": {},
     "Oyang2025Efficiencypredictio": {},
-    "Deng2025Simulationanalysis": {
-      "Jiao2025Modelingandanalysi": 0.21818181818181817
-    },
+    "Deng2025Simulationanalysis": {},
     "Williams2025Blacklivingnessand": {},
     "Ye2025Optimizationstrateg": {
-      "Zhong2025Evaluationandoptim": 0.25,
-      "Li2025Pathoptimizationde": 0.23529411764705885
+      "He2025Researchonoptimiza": 0.2
     },
-    "Chen2025Ananalysisofther": {},
+    "Chen2025Ananalysisofther": {
+      "Lu2025Researchontherela": 0.2153846153846154
+    },
     "Hu2025Constructionandemp": {},
     "Liang2025TheImpactofEducat": {},
     "Wang2025Threatassessmentmo": {
-      "Zhang2025Graphsignalprocess": 0.2
+      "Zhang2025Constructionofakn": 0.21052631578947367,
+      "Bozzelli2024OntheComplexityof": 0.25
     },
     "Zhang2025Relationshipbetween": {},
     "Liu2025Aestheticandecolog": {},
     "Wen2025Aninternationalcom": {},
     "Liu2025Studyontheeffects": {},
     "Zou2025Featureextractiona": {
-      "Zhang2025Explorationandprac": 0.2545454545454546,
-      "Jia2025Thestructuraldetec": 0.2,
-      "Li2025Intelligentmanageme": 0.24,
-      "Meng2025Researchonadaptive": 0.2
+      "He2025Researchonoptimiza": 0.2545454545454546,
+      "Wei2025Bigdatasentimenta": 0.21818181818181817,
+      "Lin2025Cultivationofinnov": 0.2
     },
     "Xie2025FusionofresidualU": {},
     "Qi2025Optimizingproducti": {},
     "Min2025Optimizationofpref": {
-      "Cao2025Innovationandentre": 0.21052631578947367,
-      "Wu2025Optimizationofauto": 0.22222222222222224,
-      "Li2025Constructionofrura": 0.22857142857142856,
       "Liu2025Constructionofuniv": 0.24,
-      "Gu2025Earlywarningandri": 0.20869565217391306,
-      "Zheng2025Robusttechnologyof": 0.22222222222222224,
-      "Wan2025Optimizationofcult": 0.2
+      "Zhang2025Constructionandopt": 0.2153846153846154,
+      "Wu2025Theoptimizationof": 0.2,
+      "Wu2025Optimizationofauto": 0.22222222222222224,
+      "Guo2025Researchonconstruc": 0.21818181818181817
     },
     "Li2025Analysisandvisuali": {},
-    "Wang2025Innovationofcolleg": {},
+    "Wang2025Innovationofcolleg": {
+      "Yuan2025Classroominteractio": 0.24615384615384617,
+      "Liu2025Intelligentdesignm": 0.22222222222222224,
+      "Xu2025Emotionclassificati": 0.25
+    },
     "Yang2025MCMMGarbagedetect": {},
     "Wang2025Englishteachingnet": {},
     "Miao2025Theapplicationofc": {},
@@ -24465,9 +24373,7 @@
     "Jian2025Highprecisionweigh": {},
     "Deng2025Mediumandlongterm": {},
     "Cordero2025Aboutthestability": {},
-    "Huang2025Anenhanceddeeplea": {
-      "Cao2025Innovationandentre": 0.21052631578947367
-    },
+    "Huang2025Anenhanceddeeplea": {},
     "Yang2025Optimizedconfigurat": {},
     "Li2025Preparationprocess": {},
     "Zhang2025Applicationoffour": {},
@@ -24475,73 +24381,70 @@
     "Tao2025Dancemovementemoti": {},
     "Jin2025AnimprovedCSSVMm": {},
     "Li2025Risksituationaware": {},
-    "Liu2025Wallartimagestitc": {},
+    "Liu2025Wallartimagestitc": {
+      "Wang2025Animagestitchingm": 0.22857142857142856
+    },
     "Hu2025Englishlearningvid": {},
-    "Li2025Ecologicalefficienc": {
-      "Pan2025Improveddataquery": 0.26666666666666666
-    },
+    "Li2025Ecologicalefficienc": {},
     "Li2025Qualityevaluations": {},
-    "Lin2025Emotionaltendencya": {},
+    "Lin2025Emotionaltendencya": {
+      "Wei2025Bigdatasentimenta": 0.2,
+      "Hua2025Deeplearninginphy": 0.20869565217391306,
+      "Gao2025Designandperforman": 0.20869565217391306
+    },
     "Li2025OptimizingBayesian": {},
-    "Zheng2025Robusttechnologyof": {
-      "Zhang2025Technologyandimple": 0.21818181818181817,
-      "Min2025Optimizationofpref": 0.22222222222222224,
-      "Li2025Designofonlinetea": 0.21052631578947367
-    },
-    "Zhang2025Artificialneuralne": {
-      "Wu2025Applicationandprac": 0.2
-    },
+    "Zheng2025Robusttechnologyof": {},
+    "Zhang2025Artificialneuralne": {},
     "Wang2025Collaborativefilter": {},
     "Li2025Employeesegmentatio": {},
     "Zhang2025DesignofEnglishte": {
-      "Jin2025Researchonmultimod": 0.26666666666666666
+      "Liu2025ConstructionofEngl": 0.25263157894736843,
+      "Yang2025Designandcategory": 0.20869565217391306
     },
-    "Xing2025Intelligenttransfor": {
-      "Zhou2025Thefeaturedeepfus": 0.2,
-      "Yang2025Shortvideocontent": 0.22222222222222224
-    },
+    "Xing2025Intelligenttransfor": {},
     "Xue2025Informationmanageme": {},
     "Zeng2025Afederatedcomputat": {},
-    "Xie2025Optimizingflowmode": {},
-    "Liu2025Constructionofuniv": {
-      "He2025Anomalydetectional": 0.21052631578947367,
-      "Xie2025Digitalprotectiona": 0.20869565217391306,
-      "Wei2025Evaluationanalysis": 0.2,
-      "Min2025Optimizationofpref": 0.24,
-      "Cheng2025DilemmaofcollegeE": 0.22857142857142856
+    "Xie2025Optimizingflowmode": {
+      "Wu2025Basketballplayers": 0.21052631578947367
     },
-    "Zhang2025Agamblingwebsitei": {},
+    "Liu2025Constructionofuniv": {
+      "Min2025Optimizationofpref": 0.24,
+      "Gu2025Earlywarningandri": 0.23333333333333336,
+      "Long2025Researchonbusiness": 0.21818181818181817,
+      "Wei2025Bigdatasentimenta": 0.2545454545454546
+    },
+    "Zhang2025Agamblingwebsitei": {
+      "Zhang2025Autismemotionrecog": 0.2
+    },
     "Ding2025Researchontheevol": {},
     "Ma2025Applicationoftradi": {},
-    "Han2025Personalizedonline": {},
+    "Han2025Personalizedonline": {
+      "Kan2025Personalizedrecomme": 0.21052631578947367
+    },
     "Wang2025Newstextclustering": {},
     "Jia2025Diseasepredictiona": {},
     "Wu2025Optimizationofauto": {
-      "Wan2025Optimizationofcult": 0.21052631578947367,
-      "Wu2025Theoptimizationof": 0.21052631578947367,
       "Min2025Optimizationofpref": 0.22222222222222224
     },
-    "Huang2025Sportsvolleyballer": {
-      "Tian2025Actionrecognitiont": 0.2
-    },
+    "Huang2025Sportsvolleyballer": {},
     "Tang2025Comparativeframewor": {},
     "Liu2025Distributedsecurity": {
-      "Yang2025Shortvideocontent": 0.2
+      "Zhou2025Improvingstudents": 0.2
     },
     "Li2025Teacherknowledgema": {},
     "Nie2025Graphicdesignbased": {},
     "Meng2025Shorttermnetload": {},
     "Wu2025Managementofcross": {
-      "Wang2025OptimizationofEngl": 0.2,
-      "Li2025Crossborderecomme": 0.3047619047619048
+      "Guo2025Applicationofbigd": 0.20869565217391306,
+      "He2025Researchonoptimiza": 0.20869565217391306,
+      "Li2025Crossborderecomme": 0.3047619047619048,
+      "Guo2025Intelligentrecognit": 0.22222222222222224
     },
     "Amin2025ExploringtheLandsc": {},
     "Zhang2025Multiomicsbasedgra": {},
     "Zhang2025Customerchurnpredi": {},
     "Du2025Thecorrelationbetw": {},
-    "Cao2025Apersonalizedrecom": {
-      "Gao2025Designofmultipler": 0.20869565217391306
-    },
+    "Cao2025Apersonalizedrecom": {},
     "Alwawi2025Computationalandre": {},
     "Yang2025Howdoescorporateg": {},
     "Hizem2025SustainableEHealth": {},
@@ -24552,7 +24455,9 @@
     "Cao2025ApplicationofVadad": {},
     "Liu2025Forcedvibrationana": {},
     "HernndezMndez2025Psychometricevaluat": {},
-    "Li2025Comprehensivefuzzy": {},
+    "Li2025Comprehensivefuzzy": {
+      "Zhang2025Theapplicationand": 0.20869565217391306
+    },
     "Tian2025Animprovedfuzzyne": {},
     "Chen2025Strategiesandecolo": {},
     "Zhao2025Innovatingdecision": {},
@@ -24563,53 +24468,47 @@
     "Chang2025Sidelobesuppression": {},
     "Ai2025Knowledgenetworkem": {},
     "Hill2025RaisedbyGodfora": {},
-    "Guo2025Musiccultureinheri": {
-      "Xu2025Assessmentandenhan": 0.26666666666666666,
-      "Cheng2025DilemmaofcollegeE": 0.22857142857142856
+    "Guo2025Musiccultureinheri": {},
+    "Liu2025Intelligentdesignm": {
+      "Xia2025Designandapplicati": 0.2,
+      "Zhou2025Explorethenewmode": 0.2,
+      "Wang2025Innovationofcolleg": 0.22222222222222224,
+      "Lan2025Theinnovationofcu": 0.2
     },
-    "Liu2025Intelligentdesignm": {},
     "Li2025Crossborderecomme": {
-      "Li2025Theroleofruralsp": 0.2153846153846154,
       "Wu2025Managementofcross": 0.3047619047619048
     },
     "Jia2025Theglobaldigitalc": {},
     "Wei2025Maliciousprogrampa": {},
-    "Zheng2025Dynamicinteraction": {
-      "Li2025Designofonlinetea": 0.20869565217391306
-    },
+    "Zheng2025Dynamicinteraction": {},
     "Pu2025Impactofendogenous": {},
     "Zhang2025Tourismdatamining": {},
-    "Kuang2025Automatedoptimizati": {
-      "Li2025Economicoptimizatio": 0.2,
-      "Lv2025Researchonrealtim": 0.20869565217391306
-    },
+    "Kuang2025Automatedoptimizati": {},
     "Qiao2025Researchontheinfl": {},
     "Liu2025Evaluationofstuden": {},
     "Zhao2025Analysisandmanagem": {},
-    "Bai2025Artificialintellige": {
-      "Yuan2025Ethicalandlegalis": 0.21333333333333335,
-      "Zhang2025Naturallanguagepro": 0.22222222222222224
+    "Bai2025Artificialintellige": {},
+    "Shen2025Missingdatafilling": {
+      "Xu2025Theconstructionand": 0.20869565217391306,
+      "Xie2025Digitalprotectiona": 0.2
     },
-    "Shen2025Missingdatafilling": {},
-    "Deng2025Theworkanalysisof": {
-      "Yang2025Effectivenessofcom": 0.22222222222222224
-    },
+    "Deng2025Theworkanalysisof": {},
     "Guo2025Securityevaluation": {},
     "Fang2025Trafficlawpredicti": {},
     "Zhao2025Archiveinformation": {},
-    "Sun2025Designanddevelopme": {},
+    "Sun2025Designanddevelopme": {
+      "Pei2025Developmentandappl": 0.2
+    },
     "He2025Personalizedteachin": {
-      "Liu2025Researchonthecons": 0.20869565217391306,
-      "Tang2025CollegeEnglishclas": 0.29473684210526313
+      "Bai2025Constructionofinfo": 0.2
     },
     "Song2025Howprojectbasedle": {},
-    "Yang2025ImprovingaVOHEsys": {
-      "Li2025Aredcultureconten": 0.2
-    },
+    "Yang2025ImprovingaVOHEsys": {},
     "Ying2025Applicationofimpro": {},
     "Wang2025Athreeportpowerc": {},
     "Gao2025Designandperforman": {
-      "Liu2025Optimizationandcom": 0.20869565217391306
+      "Lin2025Emotionaltendencya": 0.20869565217391306,
+      "Wang2025OptimizationofEngl": 0.24
     },
     "Zhang2025SDMUNetAmedical": {},
     "Lu2025Researchonreliabil": {},
@@ -24623,24 +24522,21 @@
     "Ding2025Impactofgreenspac": {},
     "Huang2025Exploringthewester": {},
     "Xiao2025Innovativeapplicati": {
-      "Dong2023ResearchOntheOpti": 0.25,
-      "Wang2025Methodsandcontent": 0.21818181818181817,
-      "Zhang2025Difficultiesandbre": 0.24,
-      "Lai2025Applicationofartif": 0.28235294117647064
+      "Wang2025Applicationofdeep": 0.2,
+      "Yuan2025Ethicalandlegalis": 0.25
     },
     "Chen2025Portraitdesignmode": {},
     "Qiao2025Structuralstability": {},
     "Han2025Athletespostureca": {},
-    "Chen2025Interactiveapplicat": {},
+    "Chen2025Interactiveapplicat": {
+      "Yang2025Bibliometricanalysi": 0.21052631578947367
+    },
     "Wang2025Studyontheeffect": {
-      "Wei2025Evaluationanalysis": 0.20869565217391306
+      "Hua2025Deeplearninginphy": 0.22400000000000003,
+      "Qian2025Qualityevaluationm": 0.26666666666666666
     },
-    "Dukun2025Visualpredictionmo": {
-      "Zhao2025Modelandresearcho": 0.2
-    },
-    "Zhou2025Modelingandsimulat": {
-      "Zhao2025Modelandresearcho": 0.2
-    },
+    "Dukun2025Visualpredictionmo": {},
+    "Zhou2025Modelingandsimulat": {},
     "Lyu2025Thesurgeofdigital": {},
     "Huang2025Researchonthedriv": {},
     "Chen2025Progressinusingco": {},
@@ -24649,91 +24545,89 @@
     "Guo2025Hazardousbehaviord": {},
     "Wu2025MedSegLLMLanguage": {},
     "Guo2025Intelligentrecognit": {
-      "Zhou2025Improvingstudents": 0.2
+      "Wang2025OptimizationofEngl": 0.23529411764705885,
+      "Wu2025Managementofcross": 0.22222222222222224
     },
-    "Rao2025ConstructionofChin": {},
+    "Rao2025ConstructionofChin": {
+      "Liu2025Topologicalfeature": 0.21818181818181817
+    },
     "Wang2025Applyingproblembas": {},
     "Zhao2025Leveragingmachinel": {},
     "Yue2025Constructionofpian": {},
     "Wu2025Fullprocesscostco": {},
-    "Zhuo2025Constructionofdata": {},
+    "Zhuo2025Constructionofdata": {
+      "Liu2025ConstructionofEngl": 0.21052631578947367,
+      "Jiang2025Constructionofcult": 0.21818181818181817,
+      "Zhao2025Constructionoftrad": 0.2,
+      "Yuan2025Measurementandcons": 0.2
+    },
     "Hu2025Explorationonfacto": {},
     "Zhang2025Enhancinginformatio": {},
     "Liang2025Augmentingcustomer": {
       "Priya2024ComputationalPolite": 0.25
     },
-    "Zheng2025Controlschemeofgr": {
-      "Ni2025Applicationresearch": 0.2
-    },
-    "Wan2025Optimizationofcult": {
-      "Wu2025Optimizationofauto": 0.21052631578947367,
-      "Min2025Optimizationofpref": 0.2
-    },
+    "Zheng2025Controlschemeofgr": {},
+    "Wan2025Optimizationofcult": {},
     "Xu2025Strategyandimpleme": {},
     "Zhang2025Appliedresearchon": {},
     "Liu2025ConstructionofEngl": {
-      "Yuan2025Ethicalandlegalis": 0.26666666666666666,
-      "Zhang2025Constructionofakn": 0.22222222222222224
+      "Li2025Applicationofartif": 0.23529411764705885,
+      "Zhuo2025Constructionofdata": 0.21052631578947367,
+      "Zhong2025Evaluationandoptim": 0.23529411764705885,
+      "Zhang2025DesignofEnglishte": 0.25263157894736843,
+      "Cheng2025Bigdataanalysisin": 0.2
     },
     "Bai2025Advancingenvironmen": {},
     "Ying2025Reliabilityanalysis": {},
-    "Nie2025MapReducebaseddata": {
-      "Ni2025Intelligenttourism": 0.22857142857142856
-    },
+    "Nie2025MapReducebaseddata": {},
     "Liu2025Developmentofanau": {},
     "Wang2025Advancedartificial": {},
     "Li2025Optimizedwavelettr": {},
     "Hao2025Constructionsafety": {},
     "Wang2025Evolutionarymodelo": {},
     "Guo2025Financialcrisisear": {},
-    "Ban2025Achievingenhancedg": {},
+    "Ban2025Achievingenhancedg": {
+      "Fu2025Advancementsindigi": 0.21818181818181817
+    },
     "Gao2025Designofmultipler": {
-      "Shi2025Designandresearch": 0.2,
-      "Cao2025Apersonalizedrecom": 0.20869565217391306
+      "Zhang2025Interiordesigndisp": 0.22222222222222224
     },
     "Fu2025Studyonoptimalcon": {},
     "Jiang2025Anexplorationofar": {},
     "Liang2025Collaborativemechan": {},
     "Cheng2025TheimpactofVRass": {},
     "Ai2025Elucidatingpatterns": {},
-    "Zhang2025Graphsignalprocess": {
-      "Wang2025Threatassessmentmo": 0.2
-    },
+    "Zhang2025Graphsignalprocess": {},
     "Li2025Optimizationofstud": {
-      "Zhu2025Explorationofartp": 0.24347826086956526,
       "Zhao2025Constructionoftrad": 0.2
     },
     "Wang2025Thedesignandimple": {
-      "Qian2025Developmentandeval": 0.21818181818181817,
-      "Wei2025Bigdatasentimenta": 0.21818181818181817,
-      "Hu2025Designofexothermic": 0.2
+      "Liu2025Researchonthecons": 0.26666666666666666,
+      "Hua2025Deeplearninginphy": 0.22857142857142856
     },
     "Pan2025Aerobicsmovementqu": {},
-    "Yuan2025Classroominteractio": {},
-    "Luo2025Ecommercevertical": {},
+    "Yuan2025Classroominteractio": {
+      "Wang2025Innovationofcolleg": 0.24615384615384617
+    },
+    "Luo2025Ecommercevertical": {
+      "Liang2025Intelligentlibrary": 0.22857142857142856
+    },
     "Wang2025Pricingofaccounts": {},
     "Yao2025Bibliometricanalysi": {},
     "Wu2025Nextgenerationinte": {},
     "Li2025VRtechnologyimprov": {},
     "Xu2025Applicationofartif": {
-      "Chen2025Theapplicationofc": 0.22857142857142856
+      "Luo2025Applicationofartif": 0.23529411764705885,
+      "Wu2025Applicationandprac": 0.23529411764705885
     },
     "Zhang2025Apriorialgorithmfo": {},
-    "Li2025Impactofmultimodal": {
-      "Du2025Studyonspatialopt": 0.2,
-      "Lou2025Theimpactofvirtua": 0.2
-    },
+    "Li2025Impactofmultimodal": {},
     "Cai2025Quickresponsecode": {},
     "Chen2025Investigatingthero": {},
-    "Wu2025Patternrecognition": {
-      "Yang2025Designandcategory": 0.21818181818181817
-    },
-    "Zhang2025Analysisoftheappl": {
-      "Zhou2025ApplicationofNSGA": 0.2153846153846154
-    },
+    "Wu2025Patternrecognition": {},
+    "Zhang2025Analysisoftheappl": {},
     "Qian2025Developmentandeval": {
-      "Liu2025Researchonthecons": 0.2,
-      "Wang2025Thedesignandimple": 0.21818181818181817
+      "Yang2025Shortvideocontent": 0.2
     },
     "Alzate2025EvaluatingtheTacti": {},
     "Chen2025Bigdatadrivencoll": {},
@@ -24741,65 +24635,55 @@
     "Li2025Foodqualitytraceab": {},
     "Zhang2025Chlorideionerosion": {},
     "Liang2025Simulationofvoltag": {},
-    "Lv2025Harnessingeducation": {
-      "Li2025Theapplicationofd": 0.2
-    },
+    "Lv2025Harnessingeducation": {},
     "Asabere2025ComputationalEthnog": {},
     "Li2025Theapplicationofi": {},
-    "Zhan2025Designandapplicati": {
-      "Xia2025Designandapplicati": 0.2
-    },
+    "Zhan2025Designandapplicati": {},
     "Luo2025Designofvolleyball": {},
     "Sun2025Atwostagedeepsem": {},
     "Li2025Footballplayermove": {},
     "Zhuo2025KarXTcombinesthep": {},
-    "Du2025Researchonsentimen": {},
+    "Du2025Researchonsentimen": {
+      "Li2025Researchonoptimal": 0.21818181818181817
+    },
     "Koo2025Theconsequencesof": {},
     "Wang2025Designofautonomous": {
+      "Li2025Designofonlinetea": 0.25263157894736843,
       "Lan2025Theinnovationofcu": 0.21052631578947367,
-      "Li2025Intelligentbuilding": 0.23529411764705885
+      "Liu2025Designofnetworkac": 0.2
     },
     "Hu2025Designofasecuree": {
-      "Liu2025Optimizationandcom": 0.2,
-      "Xia2025Designandapplicati": 0.22857142857142856
+      "Hu2025Designofexothermic": 0.22857142857142856
     },
     "Tian2025Computerassistedla": {},
     "Zhong2025Distancemeasurement": {},
     "Yang2025Improvingnetworkus": {},
-    "Kang2025Leveragingbigdata": {
-      "Ju2025Enhancinguserexper": 0.24
-    },
+    "Kang2025Leveragingbigdata": {},
     "Ren2025Automatedfashionst": {},
     "Wang2025Modelingandcontrol": {},
     "Yu2025Usingmultimodalfea": {},
     "Zhou2025Investigationoflan": {},
     "Zhang2025Constructionofdema": {},
     "Wu2025Theoptimizationof": {
-      "Wu2025Optimizationofauto": 0.21052631578947367
+      "Min2025Optimizationofpref": 0.2
     },
     "Lan2025Immersivelanguagea": {},
     "Zhang2025Curriculumengineeri": {},
     "Zhou2025Datadrivenapproach": {},
     "Yang2025Vulnerabilityevalua": {
-      "Fan2025Researchonintellig": 0.2074074074074074,
-      "Liu2025Designofnetworkac": 0.20869565217391306
+      "Qian2025Qualityevaluationm": 0.24347826086956526,
+      "Bozzelli2024OntheComplexityof": 0.25,
+      "Luo2025Researchonperforma": 0.2
     },
-    "Wang2025Optimizingfeedback": {
-      "Zhu2025AIpoweredfeedback": 0.26666666666666666
-    },
+    "Wang2025Optimizingfeedback": {},
     "Wang2025Optimizingchoirsou": {},
     "Hao2025Imageemotionclassi": {},
     "Khelejan2025ImprovingtheLipoph": {},
     "Bao2025ResearchonRDEpose": {},
     "Lin2025Analyzingdifference": {},
     "Kou2025Ecommercelogistics": {},
-    "Chen2025Enterprisefinancial": {
-      "Lin2025Onlinelearningplat": 0.2
-    },
-    "Chang2025Commoditypackaging": {
-      "Zhang2025Edgedevicecomputin": 0.2,
-      "Pu2025Designofsmartelde": 0.25263157894736843
-    },
+    "Chen2025Enterprisefinancial": {},
+    "Chang2025Commoditypackaging": {},
     "Pan2025Tunnelstructuresec": {},
     "Yao2025Earlywarningmodel": {},
     "Ma2025Intelligentvirtual": {},
@@ -24808,39 +24692,43 @@
     "Yuan2025Humanmotionposture": {},
     "Wu2025Quantitativeanalysi": {},
     "Zhang2025Interiordesigndisp": {
-      "Yang2025Shortvideocontent": 0.21333333333333335
+      "Gao2025Designofmultipler": 0.22222222222222224
     },
     "Yang2025Elastictorsionalre": {},
-    "Wang2025Englishoralevaluat": {},
+    "Wang2025Englishoralevaluat": {
+      "Peng2025Constructionprogres": 0.2
+    },
     "Duan2025Intelligentplanning": {
-      "Meng2025Researchonprivacy": 0.2
+      "Ni2025Intelligenttourism": 0.2
     },
     "Mu2025Multimodalsubtitle": {},
     "Luo2025Ananimatedcharacte": {},
-    "Chen2025Martialartsaction": {
-      "Li2025Bodyposturerecogni": 0.21818181818181817
+    "Chen2025Martialartsaction": {},
+    "Li2025CapsuleNetenhanced": {
+      "Lei2025Adynamicsubtopicd": 0.2
     },
-    "Li2025CapsuleNetenhanced": {},
     "Li2025Designofcomputerd": {},
-    "Fan2025Remotesensingimage": {
-      "Wang2025Imagefusionbaseds": 0.26666666666666666
-    },
+    "Fan2025Remotesensingimage": {},
     "Yu2025Anewdetectionmeth": {},
     "Zhang2025Physicaleducationt": {},
     "Zhai2025ImprovedYOLOv5wit": {},
     "Li2025Theroleofruralsp": {
-      "Li2025Crossborderecomme": 0.2153846153846154
+      "Qi2025Theroleofsmartco": 0.2074074074074074,
+      "Liu2025Behavioranalysisan": 0.2
     },
-    "Li2025Developmentstrategy": {},
+    "Li2025Developmentstrategy": {
+      "Li2025Exploringthereleva": 0.24347826086956526,
+      "Wang2025Applicationofdigit": 0.21052631578947367,
+      "Zhu2025Theroleandprospec": 0.2
+    },
     "Liu2025Anomalydetectionan": {},
     "Tao2025Designandapplicati": {
-      "Zhao2025Modelandresearcho": 0.2,
-      "Ma2025Researchonconstruc": 0.26666666666666666,
-      "Pu2025Designofsmartelde": 0.26666666666666666
+      "Shen2025Performanceoptimiza": 0.2
     },
     "Cao2025Researchontheappl": {
-      "Liu2025Researchonthecons": 0.20869565217391306,
-      "Wang2025Applicationofbigd": 0.26666666666666666
+      "Guan2025Transformationanda": 0.24,
+      "Li2025Applicationofartif": 0.24,
+      "Zhang2025Researchontheappl": 0.3047619047619048
     },
     "Ma2025Optimizingthestruc": {},
     "Yang2025Combiningtransferl": {},
@@ -24848,105 +24736,112 @@
     "Jarrar2025Insightsintothebe": {},
     "Zhang2025Regionaldoublelaye": {},
     "Ma2025Festivaldailypasse": {},
-    "Wang2025Applicationofdigit": {},
-    "Lin2025Onlinelearningplat": {
-      "Chen2025Enterprisefinancial": 0.2
+    "Wang2025Applicationofdigit": {
+      "Li2025Developmentstrategy": 0.21052631578947367,
+      "Pan2025Applicationofintel": 0.26666666666666666
     },
+    "Lin2025Onlinelearningplat": {},
     "Oate2025Progressivestiffeni": {},
     "Zhang2025Researchontheappl": {
-      "Wang2025Methodsandcontent": 0.22400000000000003,
-      "Wu2025Applicationandprac": 0.21052631578947367,
-      "Wu2025Theapplicationofa": 0.22857142857142856,
-      "Wang2025Applicationofbigd": 0.20869565217391306
+      "Dong2023ResearchOntheOpti": 0.36,
+      "Lai2025Applicationofartif": 0.22857142857142856,
+      "Cao2025Researchontheappl": 0.3047619047619048
     },
-    "Yuan2025Measurementandcons": {},
+    "Yuan2025Measurementandcons": {
+      "Zhuo2025Constructionofdata": 0.2
+    },
     "Zhai2025ComputerassistedEn": {},
     "Zhang2025Applicationofcompu": {},
-    "Lu2025Researchontherela": {},
-    "Alrouji2025Computationalscreen": {},
-    "Yin2025Optimizedsourcegri": {
-      "Li2025Methodologyfordist": 0.2
+    "Lu2025Researchontherela": {
+      "Chen2025Ananalysisofther": 0.2153846153846154
     },
+    "Alrouji2025Computationalscreen": {},
+    "Yin2025Optimizedsourcegri": {},
     "Zhang2025Apopmusicintellig": {},
     "Min2025Faultlocationofac": {},
     "Zhu2025Ahybridapproachfo": {},
     "Shen2025Evaluationofthere": {},
-    "Yue2025Dynamicdemandandi": {},
+    "Yue2025Dynamicdemandandi": {
+      "Ni2025Intelligentclassifi": 0.22857142857142856
+    },
     "Hu2025Designofexothermic": {
-      "Li2025Designofonlinetea": 0.2,
-      "Gao2025Designandresearch": 0.22400000000000003,
-      "Wang2025Thedesignandimple": 0.2
+      "Hu2025Designofasecuree": 0.22857142857142856
     },
     "Chen2025Researchonmatching": {},
-    "Ji2025Researchonthedisc": {},
+    "Ji2025Researchonthedisc": {
+      "Liu2025Researchonsemantic": 0.2,
+      "Arkin2025Phonemeconfusionmo": 0.21052631578947367
+    },
     "Zhang2025Researchonsituatio": {},
     "Anouar2025Novelthioureaderiv": {},
     "Guo2025Examiningtheincent": {},
     "Guo2025Legalcasemultilab": {},
-    "Jin2025Microgridinformati": {},
-    "Pan2025Improveddataquery": {
-      "Li2025Ecologicalefficienc": 0.26666666666666666
+    "Jin2025Microgridinformati": {
+      "Liu2025FPGAaccelerationan": 0.22222222222222224
     },
+    "Pan2025Improveddataquery": {},
     "Fang2025AnewMRACsystemde": {},
     "Liu2025CNNbasedqualityas": {},
     "Peng2025Constructionprogres": {
-      "Zhao2025Modelandresearcho": 0.22857142857142856
+      "Zhou2025ApplicationofNSGA": 0.21818181818181817,
+      "Wang2025Englishoralevaluat": 0.2
     },
     "Xu2025Multiagentreinforc": {},
     "Ding2025Implementationofin": {},
     "Guo2025Reinforcementlearni": {},
     "Zhou2025Improvingstudents": {
-      "Wang2025Danceactionrecogni": 0.22857142857142856,
-      "Guo2025Intelligentrecognit": 0.2
+      "Liu2025Distributedsecurity": 0.2
     },
     "He2025Researchonoptimiza": {
-      "Bai2025Characteristicsanal": 0.2,
-      "Liu2025Researchonthecons": 0.2782608695652174,
-      "Sun2025Evaluationoftraini": 0.23333333333333336,
-      "Zhang2025Dynamicmodelingand": 0.24347826086956526,
-      "Wei2025Bigdatasentimenta": 0.3272727272727273,
-      "Li2025Applicationandimpr": 0.2153846153846154
+      "Zou2025Featureextractiona": 0.2545454545454546,
+      "Wu2025Managementofcross": 0.20869565217391306,
+      "Ye2025Educationalapplicat": 0.24347826086956526,
+      "Li2025Applicationandimpr": 0.2153846153846154,
+      "Ye2025Optimizationstrateg": 0.2
     },
     "Wang2025Adigitaltrajectory": {},
     "Li2025Pathoptimizationde": {
-      "Ye2025Optimizationstrateg": 0.23529411764705885,
-      "Wei2025Evaluationanalysis": 0.21052631578947367
+      "Jiao2025Researchonarchitec": 0.2
     },
     "Lee2025Computationaluniver": {},
     "Hou2025Experimentalstudyo": {},
     "Yu2025Intelligentanalysis": {
+      "Liu2025Behavioranalysisan": 0.2,
       "Liu2025Visualanalysisand": 0.22222222222222224
     },
     "Wang2025Confidenceguidings": {},
     "Zhang2025Constructionofakn": {
-      "Liu2025ConstructionofEngl": 0.22222222222222224
+      "Wang2025Threatassessmentmo": 0.21052631578947367
     },
-    "Feng2025Impactofeconomicp": {
-      "Fan2025Astudyonthedrivi": 0.2
-    },
+    "Feng2025Impactofeconomicp": {},
     "Bai2025Applicationofmachi": {},
     "Bai2025Constructionofinfo": {
-      "Xu2025Theconstructionand": 0.25263157894736843,
-      "Zhang2025Explorationandprac": 0.27999999999999997,
-      "Zhang2025Constructionandopt": 0.22400000000000003
+      "Liu2025Researchonthecons": 0.29473684210526313,
+      "Cheng2025DilemmaofcollegeE": 0.21052631578947367,
+      "Hu2025Constructionandapp": 0.28235294117647064,
+      "Zhong2025Evaluationandoptim": 0.22222222222222224,
+      "Zhang2025Constructionofacr": 0.23529411764705885,
+      "Ye2025Educationalapplicat": 0.2,
+      "He2025Personalizedteachin": 0.2
     },
     "Lin2025Accurateanalysisof": {},
-    "Zhao2025Theapplicationofb": {},
+    "Zhao2025Theapplicationofb": {
+      "Zhang2025Literarywritingand": 0.24
+    },
     "Yamwongsri2025TheEffectsofSpher": {},
     "Zhou2025ApplicationofNSGA": {
-      "Zhang2025Analysisoftheappl": 0.2153846153846154,
-      "Yang2025Designandcategory": 0.20869565217391306
+      "Peng2025Constructionprogres": 0.21818181818181817
     },
     "Du2025Constructionproject": {},
     "Qian2025Qualityevaluationm": {
+      "Yang2025Vulnerabilityevalua": 0.24347826086956526,
+      "Ma2025Selectionandevalua": 0.24,
       "Wang2025OptimizationofEngl": 0.24,
-      "Jin2025Researchonmultimod": 0.22222222222222224,
-      "Sun2025Evaluationoftraini": 0.20869565217391306
+      "Wang2025Studyontheeffect": 0.26666666666666666,
+      "Zhang2025Researchonsimulati": 0.20869565217391306
     },
     "Lopez2025PerseverativeNegati": {},
-    "Yang2025Optimizationofente": {
-      "Song2025Optimizationofente": 0.21052631578947367
-    },
+    "Yang2025Optimizationofente": {},
     "Jin2025Softfaultlocation": {},
     "Zhou2025Learningtrajectory": {},
     "Zhang2025Researchonteaching": {},
@@ -24954,39 +24849,38 @@
     "Zeng2025Visualanalysisofs": {},
     "Yao2025Experimentalstudyo": {},
     "Wang2025Researchondatadri": {},
-    "Pan2025Applicationofintel": {},
+    "Pan2025Applicationofintel": {
+      "Wang2025Applicationofdigit": 0.26666666666666666
+    },
     "Ding2025Advanceddiagnostic": {},
     "Zhang2025Evaluate": {},
     "Meng2025Researchonadaptive": {
-      "Li2025Constructinganadap": 0.2,
-      "Hu2025Constructionandapp": 0.20869565217391306,
-      "Arkin2025Phonemeconfusionmo": 0.20869565217391306,
-      "Xu2025Explorationofdigit": 0.2571428571428572,
-      "Yi2025Researchonpredicti": 0.2782608695652174,
-      "Zou2025Featureextractiona": 0.2
+      "Zhang2025Assessmentoftheef": 0.2,
+      "Shen2025Performanceoptimiza": 0.23333333333333336,
+      "Sun2025Evaluationoftraini": 0.22400000000000003,
+      "Liu2025StudyonEnglishlea": 0.20869565217391306
     },
     "Liu2025Groupbehavioralint": {},
     "Emsley2025Ecologiesofinaudib": {},
     "Oldenburg2025ThinkingwiththeAr": {},
     "Zhang2025Constructionandopt": {
-      "Liu2025Researchonthecons": 0.22857142857142856,
-      "Bai2025Constructionofinfo": 0.22400000000000003
+      "Min2025Optimizationofpref": 0.2153846153846154
     },
     "Monkhouse2025ImplementingSystem": {},
-    "Lei2025Adynamicsubtopicd": {},
+    "Lei2025Adynamicsubtopicd": {
+      "Li2025CapsuleNetenhanced": 0.2
+    },
     "Erenea2025Integratingdesignt": {},
     "Zhao2025Atechniqueforcons": {},
     "Bank2025FROMSLICESTOSPACE": {},
     "Lai2025Applicationofartif": {
-      "Xiao2025Innovativeapplicati": 0.28235294117647064,
-      "Yuan2025Ethicalandlegalis": 0.23529411764705885
+      "Wu2025Theapplicationofa": 0.26666666666666666,
+      "Zhang2025Researchontheappl": 0.22857142857142856,
+      "Wu2025Applicationandprac": 0.32000000000000006,
+      "Luo2025Applicationofartif": 0.25
     },
     "Hou2025Animprovedassociat": {},
-    "Zhao2025Trendandfuturepro": {
-      "Cheng2025DilemmaofcollegeE": 0.25263157894736843,
-      "Xu2025Assessmentandenhan": 0.24,
-      "Lin2025Cultivationofinnov": 0.21052631578947367
-    },
+    "Zhao2025Trendandfuturepro": {},
     "Zhang2025Personalizationofo": {},
     "Zhang2025Intelligentflowera": {},
     "Zhang2025Intelligentscheduli": {},
@@ -24994,8 +24888,7 @@
     "Yunxing2025Amethodforpredict": {},
     "Hou2025Demandresponsestra": {},
     "Zhang2025Explorationandprac": {
-      "Zou2025Featureextractiona": 0.2545454545454546,
-      "Bai2025Constructionofinfo": 0.27999999999999997
+      "Liu2025Researchonthecons": 0.23333333333333336
     },
     "Jin2025Distributedpriority": {},
     "Lin2025Sentimentanalysisa": {
@@ -25013,45 +24906,36 @@
     "Ning2025TheEmpiricalStudy": {},
     "Song2025Theevaluationindex": {},
     "Hua2025Adynamicmodelfor": {},
-    "Zhu2025Explorationofartp": {
-      "Li2025Optimizationofstud": 0.24347826086956526
-    },
+    "Zhu2025Explorationofartp": {},
     "Luo2025Researchonperforma": {
-      "Liu2025Researchandapplica": 0.21818181818181817
+      "Liu2025Researchandapplica": 0.21818181818181817,
+      "Yang2025Vulnerabilityevalua": 0.2,
+      "Zhao2025Modelandresearcho": 0.21818181818181817
     },
     "Shao2025Textsentimentclass": {},
     "Tian2025Theapplicationofo": {},
-    "Tu2025Enterprisefinancial": {
-      "Zhi2025Universityfinancial": 0.2
-    },
+    "Tu2025Enterprisefinancial": {},
     "Cao2025Innovationandentre": {
-      "Min2025Optimizationofpref": 0.21052631578947367,
-      "Huang2025Anenhanceddeeplea": 0.21052631578947367,
-      "Lu2025Researchontheopti": 0.2545454545454546,
-      "Wang2025OptimizationofEngl": 0.32941176470588235,
-      "Liu2025Researchonsemantic": 0.2
+      "Zhang2025Anempiricalanalysi": 0.22857142857142856
     },
     "Zhang2025Asmallscaleanonym": {},
     "Clabough2025StrengtheningStuden": {},
     "Chenoy2025ContinuingSecurity": {},
-    "Jiao2025Modelingandanalysi": {
-      "Deng2025Simulationanalysis": 0.21818181818181817
-    },
+    "Jiao2025Modelingandanalysi": {},
     "Melacarne2025iBeyondi": {},
     "Sevak2025Microwaveaidedfabr": {},
     "Guo2025Intelligentvideoan": {},
     "Cao2025Costpredictionofe": {},
-    "Cong2025Visualmodelconstru": {
-      "Xu2025Theconstructionand": 0.20869565217391306
+    "Cong2025Visualmodelconstru": {},
+    "Tang2025IntelligentEnglish": {
+      "Hu2025Applicationandimpr": 0.2
     },
-    "Tang2025IntelligentEnglish": {},
     "Yang2025Automatedconstructi": {
-      "Zhang2025Constructionofacr": 0.21052631578947367,
-      "Jiang2025Constructionandapp": 0.2
+      "Hu2025Constructionandapp": 0.2
     },
     "Cao2025Minorityclothingpa": {},
     "Wang2025Constructionandsim": {
-      "Li2025Analysisofinfluenc": 0.2
+      "Xiao2025Measurementandpred": 0.2
     },
     "Wen2025Adaptivebeamforming": {},
     "Liu2025Exploringautonomous": {},
@@ -25061,45 +24945,48 @@
     "Zhao2025Utilizingsupportve": {},
     "Wang2025Condensedmatterstr": {},
     "Wang2025Publicsentimentbas": {},
-    "Shi2025Applicationofblock": {},
+    "Shi2025Applicationofblock": {
+      "Yan2025ApplicationofWord2": 0.2,
+      "Li2025Applicationandimpr": 0.2,
+      "Liu2025Visualanalysisand": 0.21052631578947367
+    },
     "Haitong2025Enhancingpowerdata": {},
     "Xu2025Sportseventdataan": {},
     "Jiao2025Researchonarchitec": {
-      "Yang2025Researchonundergro": 0.27999999999999997,
-      "Liu2025Researchonemotion": 0.2
+      "Li2025Pathoptimizationde": 0.2
     },
     "Chen2025Comparativestudyon": {},
     "Liu2025Anintelligentasses": {},
     "Tian2025Actionrecognitiont": {
-      "Huang2025Sportsvolleyballer": 0.2
+      "Wang2025Danceactionrecogni": 0.23529411764705885
     },
     "Wang2025Selfcorrectingconv": {},
     "Wang2025Adialoguesystemdr": {},
-    "Wang2025Applicationofdeep": {},
+    "Wang2025Applicationofdeep": {
+      "Xiao2025Innovativeapplicati": 0.2,
+      "Zhang2025Applicationresearch": 0.2153846153846154
+    },
     "Kopnina2025IntegratingCritical": {},
     "Lu2025Adynamicperformanc": {},
     "Dong2025Forestoptimalmanag": {},
-    "Zhang2025Collaborativeplanni": {
-      "Chen2025Optimizationoftenn": 0.24
-    },
+    "Zhang2025Collaborativeplanni": {},
     "Wang2025Appreciationmodeld": {},
     "Miao2025Atextaudiomultimo": {},
-    "Sylemez2025ExaminingEngineerin": {
-      "Kutay2022CodingwithMinecraf": 0.25
-    },
+    "Sylemez2025ExaminingEngineerin": {},
     "Zhang2025Anoptimizedmodelin": {},
     "Ling2025Researchontheappl": {},
     "Hu2025Computationalfluid": {},
     "Dastgeer2025AConceptualWorkto": {},
     "Ding2025IntelligentLearning": {},
     "Xu2025Emotionclassificati": {
-      "Hua2025Deeplearninginphy": 0.2
+      "Li2025Designofonlinetea": 0.21052631578947367,
+      "Wang2025Innovationofcolleg": 0.25
     },
     "Yin2025Multicoredesignof": {},
     "Smith2025Reframingmorethan": {},
     "Liu2025Researchandapplica": {
-      "Xiao2025Measurementandpred": 0.21818181818181817,
-      "Luo2025Researchonperforma": 0.21818181818181817
+      "Luo2025Researchonperforma": 0.21818181818181817,
+      "Xiao2025Measurementandpred": 0.21818181818181817
     },
     "Hou2025Aninteractivesyste": {},
     "Ibrahim2025Anexperimentaland": {},
@@ -25115,24 +25002,20 @@
     "Li2025Optimizingperforati": {},
     "Yang2025Financialfraudiden": {},
     "Liu2025Researchonsemantic": {
-      "Cao2025Predictionandoptim": 0.20869565217391306,
-      "Wang2025OptimizationofEngl": 0.25263157894736843,
-      "Liu2025Researchonautomati": 0.23333333333333336,
-      "Cao2025Innovationandentre": 0.2
+      "Ji2025Researchonthedisc": 0.2
     },
     "Yan2025Researchonhighspe": {},
     "Liu2025Researchonsmartgr": {},
     "Dong2025Sensitivebehaviord": {},
-    "Jiang2025Researchonstabilit": {
-      "Shi2025Researchonintellig": 0.26666666666666666
-    },
+    "Jiang2025Researchonstabilit": {},
     "Yu2025Studyonmechanical": {},
     "Kalva2025RevisitingAmbedkar": {},
     "Tan2025Detectionoffrogeye": {},
     "Ma2025AnewfeatureforCh": {},
     "Bal2025TheEffectofMindfu": {},
     "Xiao2025Measurementandpred": {
-      "Liu2025Researchandapplica": 0.21818181818181817
+      "Liu2025Researchandapplica": 0.21818181818181817,
+      "Wang2025Constructionandsim": 0.2
     },
     "Hui2025Applicationofcross": {},
     "Li2025Biomechanicalanalys": {},
@@ -25140,7 +25023,10 @@
     "Yang2025Designofopticalel": {},
     "Xia2025ABiGRUandSSAint": {},
     "Li2025Semanticdriventext": {},
-    "Liu2025FPGAaccelerationan": {},
+    "Liu2025FPGAaccelerationan": {
+      "Jin2025Microgridinformati": 0.22222222222222224,
+      "Wang2025Researchonforeste": 0.24
+    },
     "Wen2025Amultimodaltransfo": {},
     "Chi2025Hybriddeeplearning": {},
     "Alqazlan2025Anovelhumaninth": {},
@@ -25150,13 +25036,12 @@
     "Henderson2025Efficientpersistenc": {},
     "Najia2025AnEnhancedHybridM": {},
     "Chen2025Optimizationoftenn": {
-      "Zhang2025Collaborativeplanni": 0.24
+      "Nie2025Dynamicoptimization": 0.26666666666666666
     },
     "Shen2025Performanceoptimiza": {
-      "Gao2025Designandresearch": 0.24615384615384617,
-      "Shi2025Designandresearch": 0.2,
-      "Zhang2025Dynamicmodelingand": 0.21818181818181817,
-      "Tang2025Pathoptimizationmo": 0.20869565217391306
+      "Liu2025Researchonthecons": 0.20869565217391306,
+      "Meng2025Researchonadaptive": 0.23333333333333336,
+      "Tao2025Designandapplicati": 0.2
     },
     "Zhang2025Dynamicuncertainty": {},
     "Desmet2025FosteringCreativeT": {},
@@ -25169,7 +25054,9 @@
     "Abbas2025Computationalstudy": {},
     "Zhou2025GenerativeAIvisual": {},
     "Su2025Designandoptimizat": {},
-    "Xu2025Deeplearningbased": {},
+    "Xu2025Deeplearningbased": {
+      "Liu2025Researchonthecons": 0.22857142857142856
+    },
     "Valentine2025Cosmicimperatives": {},
     "Zhang2025Goafinduceddeforma": {},
     "Gong2025Pedestalloosenessf": {},
@@ -25177,20 +25064,17 @@
     "Jain2025PDScorePersonality": {},
     "Chairi2025Computationalassess": {},
     "Malik2025Computationalinsigh": {},
-    "Wang2025Animagestitchingm": {},
+    "Wang2025Animagestitchingm": {
+      "Liu2025Wallartimagestitc": 0.22857142857142856
+    },
     "Wu2025Morphologicalcharac": {},
     "Jin2025Applicationofcolor": {
       "Zheng2025Researchonautomati": 0.20869565217391306
     },
     "Jam2025AdsorptionofC": {},
     "Xuan2025Innovativeresearch": {},
-    "Gao2025Loadforecastingmet": {
-      "Zhang2025Autismemotionrecog": 0.25,
-      "Zhou2025Thefeaturedeepfus": 0.25
-    },
-    "Li2025Methodologyfordist": {
-      "Yin2025Optimizedsourcegri": 0.2
-    },
+    "Gao2025Loadforecastingmet": {},
+    "Li2025Methodologyfordist": {},
     "Guo2025Predictinghydrotur": {},
     "Huang2025Ecommerceenterpris": {},
     "Xu2025Aknowledgegraphto": {},
@@ -25198,17 +25082,18 @@
     "Alshaghdali2025ComputationalScreen": {},
     "Pnevmatikos2025CreatingCriticalTh": {},
     "Huang2025Researchontheregi": {},
-    "Kan2025Personalizedrecomme": {},
+    "Kan2025Personalizedrecomme": {
+      "Han2025Personalizedonline": 0.21052631578947367
+    },
     "Wang2025Intelligentbookrec": {},
     "Grall2025BridgingProjectMan": {},
     "Zhou2025Computervisionfor": {},
     "Hong2025Innovativedesignan": {},
     "Jin2025Researchonmultimod": {
-      "Qian2025Qualityevaluationm": 0.22222222222222224,
-      "Zhang2025DesignofEnglishte": 0.26666666666666666
+      "Long2025Researchonbusiness": 0.22222222222222224
     },
     "Yan2025ApplicationofWord2": {
-      "Huang2025Theapplicationand": 0.22222222222222224
+      "Shi2025Applicationofblock": 0.2
     },
     "Gao2025Implementingmachine": {},
     "Hu2025Riskmanagementofa": {},
@@ -25216,9 +25101,7 @@
     "Zhu2025Optimizingtheuser": {},
     "Li2025Researchtheroleof": {},
     "Yang2025Automaticthemeand": {},
-    "Yi2025Analysisofstudents": {
-      "Wei2025Evaluationanalysis": 0.22222222222222224
-    },
+    "Yi2025Analysisofstudents": {},
     "Zhou2025Assessingthegridc": {},
     "Shen2025Exploringtheeffect": {},
     "Jia2025Researchonsimilari": {},
@@ -25226,29 +25109,31 @@
     "Mikalonyt2025TransformedbyBeaut": {},
     "Razavirad2025Acomputationalstud": {},
     "Yang2025Elasticplastictors": {},
-    "Lou2025Theimpactofvirtua": {
-      "Li2025Impactofmultimodal": 0.2
-    },
+    "Lou2025Theimpactofvirtua": {},
     "Wang2025Analysisofinformat": {},
     "Xiaoling2025Deploymentmethodof": {},
     "Pu2025Designofsmartelde": {
-      "Tao2025Designandapplicati": 0.26666666666666666,
-      "Hu2025Applicationandimpr": 0.2,
-      "Chang2025Commoditypackaging": 0.25263157894736843
+      "Shi2025Designandresearch": 0.2545454545454546,
+      "Gao2025Designandresearch": 0.2153846153846154
     },
     "Shi2025Deeplearningbased": {},
     "Feng2025Improvingsentiment": {},
     "Garon2025Earlythinkingpalli": {},
     "Shi2025Researchonsurface": {},
     "Liu2025Improvingmachinetr": {},
-    "Zhang2025Literarywritingand": {},
+    "Zhang2025Literarywritingand": {
+      "Zhao2025Theapplicationofb": 0.24,
+      "Wang2025Applicationofbigd": 0.25263157894736843,
+      "Dong2023ResearchOntheOpti": 0.25,
+      "Wu2025Theapplicationofa": 0.28235294117647064
+    },
     "Zhu2025Theapplicationofa": {
-      "Luo2025Applicationofartif": 0.23529411764705885
+      "Wu2025Theapplicationofa": 0.25263157894736843
     },
-    "Li2025Constructinganadap": {
-      "Meng2025Researchonadaptive": 0.2
+    "Li2025Constructinganadap": {},
+    "Zheng2025Researchontheappl": {
+      "Bao2025Innovativeapplicati": 0.2
     },
-    "Zheng2025Researchontheappl": {},
     "Lun2025Amachinelearningd": {},
     "Royston2025StakeholderPerspect": {},
     "Mruczek2025Newinsightsandac": {},
@@ -25258,9 +25143,7 @@
     "Le2025Phytochemicalsfrom": {},
     "Ledesma2025PedicleLengthening": {},
     "Liu2025Theimpactofgenera": {},
-    "Alqarni2025NetworkDynamicsand": {
-      "Pelnek2023TheLandscapeofCom": 0.25
-    },
+    "Alqarni2025NetworkDynamicsand": {},
     "Wang2025Theroleoflearning": {},
     "Cheng2025Pathofmicrocultur": {},
     "He2025Theimpactofdatad": {},
@@ -25276,11 +25159,11 @@
     "Pei2025Atextminingandgr": {},
     "Li2025Evaluationandimpro": {},
     "Luo2025Evaluatingicemelti": {},
-    "Du2025Optimizingthevisua": {},
+    "Du2025Optimizingthevisua": {
+      "Lan2025Theinnovationofcu": 0.20869565217391306
+    },
     "Li2025Intelligentmanageme": {
-      "Zou2025Featureextractiona": 0.24,
-      "Zhong2025Evaluationandoptim": 0.2,
-      "Hu2025Constructionandapp": 0.2
+      "Xie2025Enterpriseaccountin": 0.23529411764705885
     },
     "Zhao2025Analyzetheimpacto": {},
     "Cai2025Optimizationofland": {},
@@ -25294,49 +25177,32 @@
     "Guo2025Acomprehensivestud": {},
     "Mao2025CrimeforecastingA": {},
     "Fu2025Publicopiniontopic": {},
-    "He2025Anomalydetectional": {
-      "Liu2025Constructionofuniv": 0.21052631578947367
-    },
+    "He2025Anomalydetectional": {},
     "Li2025Realtimehealthwar": {},
     "Guo2025Enhancingsupplycha": {},
-    "Yang2025Researchonundergro": {
-      "Jiao2025Researchonarchitec": 0.27999999999999997,
-      "Zhang2025Developmentandappl": 0.20869565217391306
+    "Yang2025Researchonundergro": {},
+    "Yang2025Bibliometricanalysi": {
+      "Chen2025Interactiveapplicat": 0.21052631578947367
     },
-    "Yang2025Bibliometricanalysi": {},
     "Yu2025Clusteringalgorithm": {},
     "Qiu2025TheapplicationofR": {},
     "Rangaraj2025OptimalBallistocard": {},
     "Yang2025Shortvideocontent": {
-      "Zhang2025Interiordesigndisp": 0.21333333333333335,
-      "Li2025Aredcultureconten": 0.23529411764705885,
-      "Wang2025Danceactionrecogni": 0.22857142857142856,
-      "Xing2025Intelligenttransfor": 0.22222222222222224,
-      "Liu2025Distributedsecurity": 0.2
+      "Qian2025Developmentandeval": 0.2
     },
     "Qin2025Dynamicresponseand": {},
     "Unwin2025Werequitegoodat": {},
     "Liu2025Theconstructionand": {},
     "Tong2025Logicalstartingpoi": {},
-    "Tang2025Pathoptimizationmo": {
-      "Shen2025Performanceoptimiza": 0.20869565217391306
-    },
+    "Tang2025Pathoptimizationmo": {},
     "Zhang2025Dynamicmodelingand": {
-      "Nie2025Dynamicoptimization": 0.22857142857142856,
-      "He2025Researchonoptimiza": 0.24347826086956526,
-      "Shen2025Performanceoptimiza": 0.21818181818181817
+      "Ji2025Theevaluationofte": 0.22400000000000003
     },
-    "Li2025Economicoptimizatio": {
-      "Kuang2025Automatedoptimizati": 0.2
-    },
+    "Li2025Economicoptimizatio": {},
     "Cui2025Musicsequencegener": {},
     "Li2025Employmenttrendpre": {},
     "Wei2025DosingTimeofDayI": {},
-    "Wang2025Methodsandcontent": {
-      "Zhang2025Researchontheappl": 0.22400000000000003,
-      "Xiao2025Innovativeapplicati": 0.21818181818181817,
-      "Wang2025Applicationofbigd": 0.23333333333333336
-    },
+    "Wang2025Methodsandcontent": {},
     "Yuan2025Exploringresearcht": {},
     "Talwar2025EmbracingDigitalDi": {},
     "Hue2025Knowledgedrivensub": {},
@@ -25347,38 +25213,33 @@
     "Singh2025Acomputationalonto": {},
     "ONeil2025Thinkinginsystems": {},
     "nalan2025Computationalmethod": {},
-    "Li2025Analysisofinfluenc": {
-      "Wang2025Constructionandsim": 0.2
-    },
+    "Li2025Analysisofinfluenc": {},
     "Zhao2025AGenerativeArtific": {},
     "Meyrick2025Rethinkingculture": {},
     "Alzate2025ImpactoftheTactic": {},
     "Li2025Applicationofartif": {
-      "Zhu2025Theroleandprospec": 0.22222222222222224,
-      "Wu2025Applicationandprac": 0.49230769230769234
+      "Liu2025ConstructionofEngl": 0.23529411764705885,
+      "Cao2025Researchontheappl": 0.24,
+      "Luo2025Applicationofartif": 0.25
     },
     "Gong2025Auxiliarysystemof": {},
     "Lu2025Theimpactofarteri": {},
     "Liu2025Visualanalysisand": {
-      "An2025Designandimplement": 0.2,
+      "Shi2025Applicationofblock": 0.21052631578947367,
       "Yu2025Intelligentanalysis": 0.22222222222222224,
-      "Yu2025Applicationandopti": 0.2
+      "Liu2025Behavioranalysisan": 0.20869565217391306
     },
     "Huang2025Theapplicationand": {
-      "Mike2022Computationalthinki": 0.26666666666666666,
-      "Wu2025Theapplicationofa": 0.22222222222222224,
-      "Yan2025ApplicationofWord2": 0.22222222222222224,
-      "Guo2025TheapplicationofS": 0.21052631578947367,
-      "Guan2025Transformationanda": 0.22222222222222224
+      "Wang2025Applicationofbigd": 0.3111111111111111
     },
     "Xu2025Adaptiverecycledpl": {},
-    "Shi2025AItechnologyinthe": {},
+    "Shi2025AItechnologyinthe": {
+      "Zhang2025Theapplicationand": 0.2545454545454546
+    },
     "Campbell2025Inheritingwomynsl": {},
     "Li2025Theapplicationofd": {
-      "Lv2025Harnessingeducation": 0.2,
-      "Chen2025Theapplicationofc": 0.2,
-      "Yuan2025Ethicalandlegalis": 0.25,
-      "Qiu2025Constructionandapp": 0.21052631578947367
+      "Wu2025Theapplicationofa": 0.22222222222222224,
+      "Qi2025Theroleofsmartco": 0.21818181818181817
     },
     "Kanagaraju2025Experimentalandcom": {},
     "Mrits2025Onthenumericalsol": {},
@@ -25386,18 +25247,14 @@
     "Xu2025NewSocialistMena": {},
     "Jiang2025ExploringanAlterna": {},
     "Marlina2025TheApplicationofI": {},
-    "Sun2025ImprovingComputatio": {
-      "Kutay2022CodingwithMinecraf": 0.2608695652173913
-    },
+    "Sun2025ImprovingComputatio": {},
     "Ho2025Outcomesofaninteg": {},
     "Duerr2025TracingThreeDecade": {},
     "Huang2025Indoorsinglestatio": {},
     "Beek2025MakingSystemsThink": {},
     "Zhao2025Optimizationofprop": {},
     "Najafi2025IsitCurbingspread": {},
-    "Memon2025Designthinkinginc": {
-      "Espinal2024ProfessionalDevelop": 0.5
-    },
+    "Memon2025Designthinkinginc": {},
     "Beni2025CanSmartAlloyMate": {},
     "Gonzales2025Predictinglanguage": {},
     "Teti2025ThinkingOutsidethe": {},
@@ -25410,63 +25267,60 @@
     "Clark2025Thinkingwithedges": {},
     "Taylor2025ImageTextRiffsIn": {},
     "Enakoutsa2025Metalplasticityand": {},
-    "Li2025Intelligentbuilding": {
-      "Wang2025Designofautonomous": 0.23529411764705885
-    },
+    "Li2025Intelligentbuilding": {},
     "Zhang2025Healthimpactreduct": {},
     "Gu2025Earlywarningandri": {
-      "Min2025Optimizationofpref": 0.20869565217391306
+      "Liu2025Constructionofuniv": 0.23333333333333336
     },
     "Paladugu2025ComputationalSimula": {},
-    "Rana2025DesignThinkingofT": {},
+    "Rana2025DesignThinkingofT": {
+      "Michaud2022DesignThinkingand": 0.25
+    },
     "Wang2025OptimizationofEngl": {
+      "Guo2025Intelligentrecognit": 0.23529411764705885,
       "Qian2025Qualityevaluationm": 0.24,
-      "Liu2025Researchonthecons": 0.22857142857142856,
-      "Liu2025Researchonsemantic": 0.25263157894736843,
-      "Zhao2025Modelandresearcho": 0.24,
-      "Wei2025Bigdatasentimenta": 0.27999999999999997,
-      "Wu2025Managementofcross": 0.2,
-      "Cao2025Innovationandentre": 0.32941176470588235
+      "Liu2025StudyonEnglishlea": 0.32941176470588235,
+      "Gao2025Designandperforman": 0.24
     },
     "Pica2025Athreatcomplexity": {},
     "Wang2025Deformationandfail": {},
     "Wu2025Theapplicationofa": {
-      "Huang2025Theapplicationand": 0.22222222222222224,
-      "Wang2025Applicationofbigd": 0.35555555555555557,
-      "Wu2025Applicationandprac": 0.32000000000000006,
-      "Zhang2025Researchontheappl": 0.22857142857142856
+      "Lai2025Applicationofartif": 0.26666666666666666,
+      "Zhu2025Theapplicationofa": 0.25263157894736843,
+      "Mai2024OntheOpportunities": 0.2631578947368421,
+      "Chen2025Theapplicationofc": 0.24,
+      "Li2025Theapplicationofd": 0.22222222222222224,
+      "Zhang2025Literarywritingand": 0.28235294117647064,
+      "Guan2025Transformationanda": 0.26666666666666666,
+      "Dong2023ResearchOntheOpti": 0.2916666666666667
     },
     "Prescott2025Thinkingaboutanec": {},
     "Luo2025Applicationofartif": {
-      "Zhu2025Theapplicationofa": 0.23529411764705885,
-      "Wang2025Applicationofbigd": 0.28235294117647064
+      "Xu2025Applicationofartif": 0.23529411764705885,
+      "Li2025Applicationofartif": 0.25,
+      "Lai2025Applicationofartif": 0.25
     },
     "Wang2025Astudyofapersona": {},
     "Xie2025MSAMYOLOAnimprov": {},
-    "Zhang2025Dynamicposerecogni": {
-      "Zhang2025Deeplearningbased": 0.2,
-      "Wang2025Danceactionrecogni": 0.23529411764705885
-    },
+    "Zhang2025Dynamicposerecogni": {},
     "Jin2025Dynamicresponseand": {},
-    "Li2025Constructionofrura": {
-      "Min2025Optimizationofpref": 0.22857142857142856
-    },
+    "Li2025Constructionofrura": {},
     "Shang2025Astudyontherelat": {},
     "Tian2025Improvingtransmissi": {},
     "Ye2025Newenergyaccesse": {},
     "Sajadi2025Computationalaeroac": {},
     "Dong2025Artificialintellige": {
-      "Zhang2025Naturallanguagepro": 0.21052631578947367,
       "Wu2025Applicationandprac": 0.28571428571428575
     },
     "stling2025Whatifallkindsof": {},
     "Lin2025Cultivationofinnov": {
-      "Zhao2025Trendandfuturepro": 0.21052631578947367
+      "Hu2025Constructionandapp": 0.21052631578947367,
+      "Zou2025Featureextractiona": 0.2
     },
-    "Wu2025Basketballplayers": {},
-    "Zhang2025Difficultiesandbre": {
-      "Xiao2025Innovativeapplicati": 0.24
+    "Wu2025Basketballplayers": {
+      "Xie2025Optimizingflowmode": 0.21052631578947367
     },
+    "Zhang2025Difficultiesandbre": {},
     "Dong2025Theimpactofcloud": {},
     "He2025TheeffectofVRtec": {}
   }

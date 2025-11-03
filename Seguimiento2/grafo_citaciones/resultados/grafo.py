@@ -18,5 +18,5 @@ for nodo in G.nodes():
     G.nodes[nodo]["label"] = titulo
 
 # Guardar grafo en formato GEXF
-nx.write_gexf(G, "grafo_filtrado.gexf")
-print("Archivo GEXF generado: grafo_filtrado.gexf")
+nx.write_gexf(G, "grafoAUTKEY.gexf")
+print("Archivo GEXF generado: grafoAUTKEY.gexf")

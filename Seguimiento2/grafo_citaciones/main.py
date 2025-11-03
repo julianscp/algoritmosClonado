@@ -6,7 +6,7 @@ from grafo_citaciones import GrafoCitaciones
 
 # Configuración de rutas
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
-BIB_PATH = BASE_DIR / "Requerimiento1" / "ArchivosFiltrados" / "articulosOptimos.bib"
+BIB_PATH = BASE_DIR / "Requerimiento1" / "ArchivosFiltrados" / "articulosOptimos_limpio.bib"
 RESULTADOS_DIR = Path(__file__).resolve().parent / "resultados"
 RESULTADOS_DIR.mkdir(parents=True, exist_ok=True)
 

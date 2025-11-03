@@ -1,5 +1,5 @@
 Comparación de Coeficientes Cophenéticos:
 
-Método: single      ->  Coeficiente: 0.1321
-Método: complete    ->  Coeficiente: 0.3704
-Método: average     ->  Coeficiente: 0.5305
+Método: single      ->  Coeficiente: 0.1302
+Método: complete    ->  Coeficiente: 0.3703
+Método: average     ->  Coeficiente: 0.5310

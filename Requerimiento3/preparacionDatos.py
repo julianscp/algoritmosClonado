@@ -26,9 +26,12 @@ print("Existe archivo:", IN_FILE.exists())
 # --- FUNCIONES AUXILIARES ---
 
 def limpiar_texto(texto: str) -> str:
-    """Normaliza el texto: minúsculas, quita signos, números y stopwords."""
+    """Normaliza el texto: elimina etiquetas, minúsculas, quita signos, números y stopwords."""
     if not texto:
         return ""
+    
+    # --- ELIMINAR ETIQUETAS HTML / MathML ---
+    texto = re.sub(r'<[^>]+>', ' ', texto)  # elimina cualquier cosa entre < y >
     
     # Minúsculas
     texto = texto.lower()
