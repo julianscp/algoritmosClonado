@@ -1,34 +1,22 @@
 import json
 import networkx as nx
-import matplotlib.pyplot as plt
 
-# Cargar datos
+# Cargar JSON
 with open("grafo_citaciones.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# Crear grafo dirigido
-G = nx.DiGraph()
+G = nx.Graph()
 
-# Suponemos que "nodos" tiene la información de los artículos
-for nodo, info in data["nodos"].items():
-    G.add_node(nodo, titulo=info.get("titulo", "Sin título"))
+# Añadir aristas y nodos conectados
+for nodo, vecinos in data["aristas"].items():
+    for vecino, peso in vecinos.items():
+        G.add_edge(nodo, vecino, weight=peso)
 
-# Añadir aristas
-for nodo, adyacentes in data["aristas"].items():
-    for vecino in adyacentes.keys():
-        G.add_edge(nodo, vecino)
+# Añadir información de los nodos (ej. título del artículo)
+for nodo in G.nodes():
+    titulo = data["nodos"].get(nodo, {}).get("titulo", nodo)
+    G.nodes[nodo]["label"] = titulo
 
-# Dibujar grafo
-plt.figure(figsize=(16, 16))
-pos = nx.spring_layout(G, seed=42)
-
-nx.draw_networkx_nodes(G, pos, node_size=50, node_color="skyblue")
-nx.draw_networkx_edges(G, pos, arrowstyle="->", arrowsize=10, edge_color="gray")
-
-# Dibujar etiquetas con títulos (puede recortar si son muy largos)
-labels = {n: G.nodes[n]['titulo'][:30] + "..." if len(G.nodes[n]['titulo']) > 30 else G.nodes[n]['titulo'] for n in G.nodes()}
-nx.draw_networkx_labels(G, pos, labels, font_size=8)
-
-plt.axis("off")
-plt.tight_layout()
-plt.show()
+# Guardar grafo en formato GEXF
+nx.write_gexf(G, "grafo_filtrado.gexf")
+print("Archivo GEXF generado: grafo_filtrado.gexf")
